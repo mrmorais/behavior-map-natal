@@ -1,0 +1,863 @@
+,place_name,place_id,lat,lng,type
+0,Aeroporto de Natal,ChIJQzHCdHStswcRgLEdJRVqeXU,-5.768886300000001,-35.3656132,airport
+1,Condomínio Aeronáutico Costa Esmeralda,ChIJcTltHjdfsgcRgQjHOsOHt3I,-6.022056899999999,-35.2406508,airport
+2,Cargo Terminal - Inframérica (Christmas TCB),ChIJt_Oo7AytswcRi2BqCc7JXxQ,-5.7641449,-35.3668413,airport
+3,Aeropuerto Saida 1,ChIJOwAz9HOtswcRXkgudcjRHiw,-5.762724899999999,-35.3729705,airport
+4,Radar Meteorológico Natal,ChIJoWujBaVXsgcRba7cytmJzEY,-5.9188959,-35.2500793,airport
+5,Heliporto Natal Mar Hotel,ChIJ--4_viT_sgcR7gS4uRtuacQ,-5.8655237,-35.1805776,airport
+6,Táxi 24horas,ChIJJT82Z3H4sgcRxct6AzaLBx8,-5.924339,-35.20788699999999,airport
+7,Ceará Mirim Airfield,ChIJAwiGoWywswcRVkt7uEr3bb8,-5.660989799999999,-35.41484519999999,airport
+8,Pista de skate,ChIJpU4qNSiqswcRyCb-kKVpsYg,-5.7324532,-35.2505362,airport
+9,F Nunes Factoring,ChIJkyy_r_D_sgcRc6lYHcDeZxA,-5.820505400000001,-35.2100888,bank
+10,Bradesco Prime,ChIJBwAAEHMAswcR12UDaUz-r_Y,-5.7838012,-35.2056291,bank
+11,Caixa Econômica Federal,ChIJWap7yXIAswcRiyG9tr9jSbM,-5.787339299999999,-35.2059598,bank
+12,Banco do Brasil - Agência Ribeira,ChIJqVBUrXEAswcRVjQXhKGFZo8,-5.7752392,-35.2043282,bank
+13,Agência Noilde Ramalho - Caixa Econômica Federal,ChIJO85Y9mlVsgcREl0sODFAqgk,-5.825941099999999,-35.22141510000001,bank
+14,Banco do Nordeste - Agência Natal Prudente de Morais,ChIJlSkqkvn_sgcRN_uaKdtMDSM,-5.812461600000001,-35.21018520000001,bank
+15,Bank of Brazil,ChIJsZmd6AgAswcRDLWDUrrch8A,-5.7843634,-35.2062667,bank
+16,Caixa Econômica Federal,ChIJm8KXwxMAswcRXxXuoUD4H_0,-5.7887425,-35.19876370000001,bank
+17,Federal Savings Bank,ChIJH30XaGZVsgcRis_jJtP0K2k,-5.826683999999998,-35.2243889,bank
+18,Bradesco,ChIJb4aAbC7_sgcRL6yaqmB7zp8,-5.851357200000001,-35.2049776,bank
+19,Banco Bradesco S/A-Gerência,ChIJlwJPVqiqswcRwoGL3Kq_ry8,-5.7974867,-35.2176374,bank
+20,AGN - Agência de Fomento do Rio Grande do Norte S.A.,ChIJa5-Zm24AswcRfJwJO-i1Tvw,-5.7832799,-35.2000322,bank
+21,Banco Daycoval | Natal - RN,ChIJY7ZNqPD_sgcRnCy0XlzC5KU,-5.818161099999999,-35.2101158,bank
+22,Banco do Brasil S/A,ChIJ1XMv0xYAswcR4i9-uxD6_-E,-5.794933299999999,-35.20168230000001,bank
+23,Nordeste Fomento Mercantil LTDA,ChIJs6mfER0AswcRNf9voKI2QKQ,-5.833497599999999,-35.21250940000001,bank
+24,Bradesco,ChIJHSRA1kSqswcRkeWNG80WmTI,-5.7578323,-35.24722250000001,bank
+25,UP Brasil - Natal,ChIJs1jFvfH_sgcRc8NGj8wtpac,-5.833174199999999,-35.2142987,bank
+26,Próspera,ChIJZzjMVqiqswcRf-QUeerJU0o,-5.797473,-35.21710079999999,bank
+27,Loja Bem Promotora Natal,ChIJ6zKdlAwAswcR4rQJ5GDaUgQ,-5.784613999999999,-35.205264,bank
+28,Banco do Brasil S/A,ChIJQ7pBkHMAswcR0hjpbxhTZek,-5.793623200000001,-35.2059974,bank
+29,Bank of Brazil,ChIJWY7j54H_sgcRtPb71E0sXsc,-5.8537043,-35.2116765,bank
+30,Bradesco Dia&Noite,ChIJG47I2jBSsgcRrbYdBZqtz08,-5.858889299999999,-35.3469424,bank
+31,Santander,ChIJfzKWPBMAswcRkI31NMhKMI0,-5.787863199999999,-35.2000908,bank
+32,Bank of Brazil,ChIJpUXvpRAAswcRiuH4zByJTZM,-5.7925765,-35.1992616,bank
+33,Cef,ChIJA2HThfdVsgcRljyLHdWTj4A,-5.8117012,-35.2032484,bank
+34,Santander Select,ChIJNwZfNe1VsgcRCcumcV-WDZk,-5.8098947,-35.2093014,bank
+35,BNB,ChIJpTlDfIv_sgcRYYJ1bppuvo4,-5.8237453,-35.2122496,bank
+36,Shake Mate,ChIJGxHBcw0AswcRrgBaI4Q_dMU,-5.789573,-35.204958,bank
+37,Cef,ChIJXXl1YAhXsgcRoCUM9wMZAFI,-5.9163979,-35.2611363,bank
+38,Bank of Brazil,ChIJDR4cSzn_sgcR0-uht03nWkc,-5.8642505,-35.18863220000001,bank
+39,Banco24Horas,ChIJEYdIxhxVsgcRXii0ZGl6PuQ,-5.827703,-35.254894,bank
+40,Banco24Horas,ChIJi7HTrBpVsgcRkRdbBsZ9Jg8,-5.828735500000001,-35.2483363,bank
+41,Prime Corban Mossoro,ChIJlWo0SBZVsgcR849r6V0zuXQ,-5.821414000000001,-35.244534,bank
+42,Banco do Brasil do DETRAN,ChIJJ3EdUBFVsgcRLORKzYU09-M,-5.825292000000001,-35.24300139999999,bank
+43,Essência ronildo,ChIJ9TrXTDhVsgcRWUtem01va90,-5.8132769,-35.2395359,bank
+44,Banco do Nordeste,ChIJn2PLfw-rswcRflPGkIfWS9M,-5.772091199999999,-35.2698924,bank
+45,Banco do Brasil,ChIJNae2m2VVsgcRh7QrkHrJFCo,-5.826951099999999,-35.2237431,bank
+46,Banco do Brasil,ChIJ18tkRGZVsgcRhzwn83IRlvk,-5.8258747,-35.2226079,bank
+47,Caixa Econômica Federal (CEF) - Ag. Potengi,ChIJkZFmLlGqswcRJCMKHzrV-KA,-5.7621558,-35.2513578,bank
+48,Banco do Brasil - Agência Nordestão,ChIJT6fDaP-qswcRAJBvp1M0lCg,-5.761203399999999,-35.2524715,bank
+49,Dunas e Corais Praia Hotel,ChIJ738wY4mnswcRtOs6nD07EZc,-5.641165099999998,-35.2182224,bar
+50,Taverna Pub Medieval Bar & Avalon Events,ChIJ_aHh-XoAswcRN6Xwp5r0PUg,-5.880595,-35.176093,bar
+51,Tavern Tá Na Hora,ChIJBTEXZCv_sgcRr35KNK3p0FI,-5.8781807,-35.17508950000001,bar
+52,Forró com Turista,ChIJQYWbMoFVsgcRPIS1rSg3X6E,-5.779361999999999,-35.1971199,bar
+53,Vogue Natal,ChIJzw65fPVVsgcRxLldF7IUx3k,-5.8591914,-35.2151303,bar
+54,Whiskritório,ChIJU_vAI0b_sgcREiMCfMLWJ2g,-5.862451999999999,-35.1923815,bar
+55,Bar do Pastel,ChIJK-MU_lJVsgcR4mWq4VCQ_2s,-5.806029899999999,-35.2232677,bar
+56,Temaki Lounge,ChIJTw3G7BAAswcRHPgNYeCsJK0,-5.789064,-35.1974667,bar
+57,Farol Bar e Restaurante,ChIJ07uAB0EAswcRxg5bwXMJa9s,-5.7858151,-35.1902901,bar
+58,Bar 294,ChIJoYYWG-b_sgcRG6QXSiGY3xM,-5.781291500000001,-35.2021526,bar
+59,Bar e Restaurante do Mineiro,ChIJNRuixm0AswcRHlXvB8WSKxA,-5.7843979,-35.2022713,bar
+60,Bar E Restaurante Sol E Lua,ChIJP3W6_9L4sgcRs_F9IhoYVZo,-5.879989999999999,-35.179229,bar
+61,Bar do Thomas,ChIJOR4Menf_sgcRGGw6shgsCyE,-5.8436495,-35.20365230000001,bar
+62,Galpão 29,ChIJv34lbHsAswcRSFbFj1Q5hKc,-5.775274699999999,-35.2056298,bar
+63,Batata Brasil,ChIJ1__lEgEAswcR60bK7FllsGY,-5.801650399999999,-35.2111236,bar
+64,Oito Coquetéis,ChIJTzg71X5VsgcRB37ZPP7ZvPg,-5.8290294,-35.2257883,bar
+65,Balada Bar e Petiscaria,ChIJ8VkV1e3_sgcRWwXxqtJ2dJ8,-5.818987,-35.2011683,bar
+66,Old Five,ChIJhTyErS75sgcR4K5SrWhJvTw,-5.884048399999999,-35.1651562,bar
+67,Beto's Bar,ChIJk5z901KqswcRFSAU-l5UXOY,-5.7590124,-35.2595135,bar
+68,Arvoredo Bar Restaurante,ChIJh5ljsgdXsgcRx6lnj4laTZ0,-5.914617799999999,-35.2619713,bar
+69,Buanas Botequim,ChIJBY7_DOVVsgcRqqWiTn6PEaM,-5.865369599999999,-35.227071,bar
+70,Dom Vinicius,ChIJJyus9BkAswcRwHSewQ4VAmI,-5.797708099999999,-35.19820960000001,bar
+71,Espetinho do Lucas,ChIJ__Ty9Iv_sgcRaXjlr0YsIOg,-5.8297146,-35.203471,bar
+72,Maria Bonita,ChIJtyRTzmsAswcRQVChMMsgu6U,-5.784092500000001,-35.196866,bar
+73,Pousada Marítimos,ChIJuaZooy__sgcRrgh7ScZX9_g,-5.868732800000001,-35.1805809,bar
+74,Jatobar,ChIJsZmd6AgAswcREHmJ7m26gak,-5.864924099999999,-35.18971759999999,bar
+75,Real Botequim,ChIJ6Zpc_mT_sgcRXn1Hg6Iq3zY,-5.8505407,-35.2059126,bar
+76,Espetinho Seridoense,ChIJv49t1VH_sgcRn_ukzs0al4U,-5.8696462,-35.2038061,bar
+77,Espetinho Eucaliptos,ChIJRcdI5rv4sgcRBAWXRKKuxLY,-5.890230999999999,-35.197448,bar
+78,Art & Bar Coquetéis,ChIJndwB7mRVsgcR7Lk3k7gn_Lg,-5.8300674,-35.2223008,bar
+79,O cantinho da Patricia e Tony - Ponto 12,ChIJ_TdMdSr5sgcRkUFo_xEwyvI,-5.878514699999999,-35.1738595,bar
+80,Limas Coquetéis,ChIJF-yYCxFXsgcROcoDUHi27CM,-5.9183109,-35.2726104,bar
+81,Green House Space,ChIJDySeZVlUsgcRBbK8BVgehck,-5.8398189,-35.2734359,bar
+82,Bar e Espetinho do Doca,ChIJJfrbhB1VsgcRxsRUpvYjsyY,-5.825513,-35.25817279999999,bar
+83,Espetinho do Gordinho,ChIJLSK1vh1VsgcRzCf2FNP4g7c,-5.8250528,-35.25701519999999,bar
+84,Comercial Santo Antonio,ChIJUySN5wJVsgcR1aEwrjnQf6I,-5.8293584,-35.25664760000001,bar
+85,Espetu's Beer,ChIJ-UVZhUpUsgcREljuQOTwEDc,-5.8539004,-35.2609176,bar
+86,Espetinho do Galego,ChIJAwyE9jhVsgcRgHIv8Q2xamY,-5.8142098,-35.2385643,bar
+87,Bar E Restaurante da Sol,ChIJIVxyTgxVsgcRQ_1VjdWUZ7A,-5.831905,-35.24035600000001,bar
+88,Marcia Cris Espaço da Beleza,ChIJgxeG_FpVsgcRRPWbJXTGT1k,-5.8511828,-35.253354,bar
+89,E Gela E Queijo Bar E Restaurante,ChIJoWoMTGtVsgcRrLge1kHQ60U,-5.8238194,-35.23676150000001,bar
+90,From the Language Bar,ChIJh3hLiMqqswcRAs1ZiiFqm9Q,-5.800965199999999,-35.2375817,bar
+91,Cantinho do sossego,ChIJY9WHVEZVsgcRSZvTW50OGus,-5.814140399999999,-35.2339163,bar
+92,Restaurante do Cobra Choca,ChIJDR7TzUhVsgcR1Gep8I_YH3s,-5.8106301,-35.2316982,bar
+93,Bar e Galeteria do Faustino,ChIJcRh4VshVsgcRmltsHMTBgmQ,-5.857225800000001,-35.2502358,bar
+94,GESIANE PACCELI - Espaço Estética,ChIJ3Wj0wLxVsgcRSmfNOkZa7b0,-5.847988999999999,-35.240845,bar
+95,Churrascaria & Pizzaria Xique-Xique,ChIJjwMUPU9VsgcR5gCj8N19154,-5.810830300000001,-35.2300242,bar
+96,Barber Shop BelezaVip,ChIJMUWUYqGrswcRyZ2b35bZPsk,-5.760594999999999,-35.277231,bar
+97,Cantinho da Lagoa,ChIJTb4zJLlVsgcRQ1fpptBEGR0,-5.852742600000001,-35.2429922,bar
+98,Bar do Bidoca,ChIJtx3JTF1VsgcRKoCQ3KvWf24,-5.820840199999999,-35.2258048,bar
+99,O Popular - Bar Roberto Carlos,ChIJ5xsRzlpVsgcRHGRN4cqCkLs,-5.8144531,-35.2254371,bar
+100,Ranchinho Nordestino,ChIJd_We1aKrswcROvsvlebSRWA,-5.756200900000001,-35.2781141,bar
+101,Forró Do Virgulino,ChIJkzK4Pq2rswcRbXQBrEPAci8,-5.7588937,-35.2600894,bar
+102,Mamute rock bar,ChIJkcj2G1OqswcR5x5toUL4LcE,-5.760049,-35.25702199999999,bar
+103,MPB Bar,ChIJxVe1I62qswcRoltZMZQJBiY,-5.8031307,-35.2234639,bar
+104,Six-Point,ChIJt4JD31CqswcRhLPS5Ik3MG4,-5.761481899999999,-35.25031329999999,bar
+105,Sangalo Bar,ChIJjw3v1Iz_sgcR5qKDc-qIF4k,-5.822074999999998,-35.2206123,bar
+106,Buteco Pai D'égua,ChIJseWt0F5VsgcR8L8SCUDIM6A,-5.818090000000001,-35.217959,bar
+107,Bar do Val,ChIJ-4UXJ3lVsgcRb_HNDrCV7f4,-5.8374619,-35.2212935,bar
+108,Casa D'Aldeia Petiscaria Portuguesa,ChIJ5f7a2aWqswcRO_9ACOEaRtc,-5.793859200000001,-35.2205489,bar
+109,Depyl Action,ChIJPflKsIr_sgcRvyBh0tLHCyw,-5.8230444,-35.21397290000001,beauty_salon
+110,Depyl Action,ChIJoXwAyT7_sgcR_3GEevUe7SU,-5.8626378,-35.1903399,beauty_salon
+111,Depyl Action,ChIJCz5fnBQAswcRvbznxF89qcE,-5.7896207,-35.1987929,beauty_salon
+112,D'pil Brasil,ChIJIXJvOVlVsgcRqLWF5J5bwF4,-5.816741599999999,-35.2189477,beauty_salon
+113,Depilla,ChIJh1LGPmX_sgcRlqbQ2iLYJNE,-5.8483336,-35.2068347,beauty_salon
+114,Oficina da Beleza,ChIJY_L5Zvz_sgcREGxUxRaU13g,-5.813492900000001,-35.20878,beauty_salon
+115,Casa Norte Beauty,ChIJSUp3umZVsgcRiz4tsW0hzfE,-5.811254099999999,-35.206223,beauty_salon
+116,D'pil a Fotodepilaçao Inteligente,ChIJ46ucS2X_sgcRnF0PuNfs47E,-5.848679,-35.2055715,beauty_salon
+117,Personnalité Saúde e Estética,ChIJ9xPrZWX_sgcRmiFw8-I6HnY,-5.8448125,-35.2079368,beauty_salon
+118,Salão Nuance,ChIJHbxsenf_sgcRQ7ymSznuEic,-5.843685100000001,-35.2037429,beauty_salon
+119,Belezaria,ChIJbbO8zhMAswcRQVYL1hyq6-A,-5.788067799999999,-35.19618349999999,beauty_salon
+120,Clínica Capilar Lucia Almeida,ChIJO29qJ-3_sgcR28g7iOnd6aw,-5.8600181,-35.2007754,beauty_salon
+121,Vinan Beleza e Estética,ChIJb0jkcS7_sgcRH2XTZ6nFn1c,-5.866411499999999,-35.1856038,beauty_salon
+122,Ary Coiffure,ChIJezA_z2X_sgcRdldtTh7rcHs,-5.853543000000001,-35.205445,beauty_salon
+123,FLASH - Centro de Estética,ChIJ83zjXDr_sgcRZINEeND9z8c,-5.867456,-35.185185,beauty_salon
+124,Beleza Center,ChIJ80Tf6XIAswcR_ss5sqZvT5w,-5.787162599999999,-35.2074859,beauty_salon
+125,Salon and Hairdresser Course D'Charm Charm,ChIJiTkRnaiqswcRcMQxJkri96c,-5.795433599999999,-35.218687,beauty_salon
+126,Marcos Galvão Hair Designer,ChIJ-3CGkBAAswcRJaiqmMIx1l0,-5.788052299999999,-35.1974239,beauty_salon
+127,Enedina Cabelo & Estetica,ChIJlVxWfxQAswcRrcKkXxTPafU,-5.7904067,-35.1985853,beauty_salon
+128,Abiss & Arlete Studio Hair,ChIJf3lc__z_sgcRHrcByJVSryA,-5.801945099999999,-35.2042443,beauty_salon
+129,Mari Anninha,ChIJiU7riRYAswcR8oGTpz9vxvA,-5.7933815,-35.1961921,beauty_salon
+130,Zellus Centro de Depilacão ltda,ChIJx39qOfH_sgcRcevsYcoC9_g,-5.816369999999999,-35.20823609999999,beauty_salon
+131,Beleza Moderna,ChIJ1UmRmktUsgcRyLRClQt4zfE,-5.850567,-35.26219100000001,beauty_salon
+132,Cláudia Cabelos,ChIJzWpFtNL4sgcReEzjh8J0MO8,-5.8779105,-35.18071329999999,beauty_salon
+133,Raquel Hair Center,ChIJdYe6RWkAswcRock1VRQUl7A,-5.782464999999999,-35.19781599999999,beauty_salon
+134,Centro De Estetica,ChIJ34SDcpX4sgcR17fHdqBJf1o,-5.896265000000001,-35.1952467,beauty_salon
+135,A&M Cabeleireiros,ChIJxXqoy3xVsgcRikz_F6BqHaQ,-5.7871629,-35.1974796,beauty_salon
+136,Ary Cabelos,ChIJYbG-q_P_sgcRY8jxybFgzss,-5.820221000000001,-35.2066653,beauty_salon
+137,George's Cabeleireiro,ChIJjRhLMxEAswcRy5ykeaHldrg,-5.793285799999999,-35.2010224,beauty_salon
+138,Pin Up! Cabelo & Maquiagem,ChIJvb1i5_T_sgcRkSwWla-WkRE,-5.821572399999999,-35.2115096,beauty_salon
+139,Porta Joia Espaço Beleza,ChIJH1913nIAswcRhWEQrJzdCZI,-5.7861807,-35.2058873,beauty_salon
+140,LANDSON CABELOS,ChIJpU7A0GpVsgcR35mICoZ-AkA,-5.8226777,-35.2363156,beauty_salon
+141,Kbeleza,ChIJpZD_bPP_sgcRAHLuxy5T_kY,-5.816343499999999,-35.20611,beauty_salon
+142,Salão Studio M,ChIJkQk-jmn_sgcRo5NO5xDXw7c,-5.8593607,-35.2005729,beauty_salon
+143,Salão VIP,ChIJE3QAyQQAswcREFJGNLbRoxE,-5.799932,-35.20560450000001,beauty_salon
+144,Marcellus Centro de Beleza,ChIJDYtmRw0AswcRtegIVYiarHk,-5.7884946,-35.20524989999999,beauty_salon
+145,Cortez Mais,ChIJR1iYZ0T_sgcR3g74o0WRb08,-5.8630406,-35.19952519999999,beauty_salon
+146,Cida Cabelo,ChIJk-Ux7gtXsgcRQNDjLatsJ8I,-5.9203691,-35.26578959999999,beauty_salon
+147,Privilège Nails,ChIJCU2GeQsAswcREPQLp2oH7s8,-5.787656,-35.2100171,beauty_salon
+148,Salão Beleza em Evidência,ChIJe7glnvr_sgcRwnUUC1UaN9M,-5.816716599999999,-35.2011079,beauty_salon
+149,Carla cabelos,ChIJrSE0E2kAswcRRXlhrUKqNFQ,-5.7827113,-35.1964683,beauty_salon
+150,New Look,ChIJzY4y2gwAswcRsYFZJ6plWmc,-5.787669300000001,-35.2069278,beauty_salon
+151,Williams Nery Hair Design,ChIJ6T4vazr_sgcRJBF643O3dig,-5.868019899999999,-35.1863134,beauty_salon
+152,Salão Bella Chique,ChIJKWhZ1A-rswcRo9evpmf5yjs,-5.7738903,-35.27241859999999,beauty_salon
+153,Fred Hair Styles,ChIJqTb7yGwAswcRvATkl5iFGaU,-5.787514300000001,-35.1999809,beauty_salon
+154,Salão Art & Glamour Cabelos e Estética,ChIJI0cpsVdVsgcRwq-QN5JRG94,-5.8115515,-35.2168655,beauty_salon
+155,Jully Cabelo's,ChIJzxD4ZkSqswcRX5nfs18NTCw,-5.7558965,-35.2434661,beauty_salon
+156,Fátima Instituto de Beleza,ChIJd-wYv7v4sgcRhDqvZdt17co,-5.888425,-35.1999384,beauty_salon
+157,Cenário de Beleza,ChIJ1-rG0QdXsgcRZgA3gALb1F8,-5.915539600000001,-35.2616069,beauty_salon
+158,Renilda Saldanha Cabelo e Estética,ChIJA2PClYz_sgcRhQnTz-LYH7Q,-5.8240398,-35.2079727,beauty_salon
+159,New Look Salão de Beleza,ChIJN2GQtP__sgcRHKUPW_Uhcjk,-5.806133500000001,-35.2121846,beauty_salon
+160,Zilda Cabeleireiros,ChIJkfOI70b_sgcR8BqA3A8uNAs,-5.8650627,-35.19633819999999,beauty_salon
+161,Instituto de beleza Bella Donna,ChIJjwbeDdSrswcRr3Q5KXD6-VU,-5.7344254,-35.2632909,beauty_salon
+162,Espaço Samylla Silva,ChIJsVXqeAlVsgcRskIN4gw6avc,-5.8357695,-35.2427571,beauty_salon
+163,Laerty Hair,ChIJtWnGEThVsgcRF4z4AjqT3Wc,-5.812642899999999,-35.2375807,beauty_salon
+164,Marcia Cris Espaço da Beleza,ChIJgxeG_FpVsgcRRPWbJXTGT1k,-5.8511828,-35.253354,beauty_salon
+165,Beleza Potiguar unhas decoradas cm kisia cardoso,ChIJq65qIUFVsgcRgZ9aoLtzWlA,-5.817496999999999,-35.2338188,beauty_salon
+166,Marie Hair,ChIJtQV0dQqrswcRUFredEXhCcg,-5.7650329,-35.2767961,beauty_salon
+167,Bella Dama,ChIJL7lKgGxVsgcRWs8Te364Doo,-5.8254788,-35.2342455,beauty_salon
+168,Diana Leite Makes,ChIJN_KLtaerswcRIzYa2V2G7GI,-5.764534999999999,-35.270166,beauty_salon
+169,Cooperativa Cultural,ChIJr7JihIv_sgcRHfs6GXDXiFA,-5.839683600000001,-35.2001316,book_store
+170,Library Board Krab,ChIJU1VVrXMAswcR9MVYQ5k5eOY,-5.782821099999999,-35.20568069999999,book_store
+171,Mídia de Rua,ChIJSSudMVtVsgcRm_AGBZsDZvs,-5.815928,-35.2255397,book_store
+172,The House of the College Bookstore and Stationery,ChIJTS3m-wcAswcRKuVAg92bcZA,-5.7947317,-35.2154463,book_store
+173,Revistaria Olhos de Luz,ChIJDW5spfP_sgcRl3NQBkGfxiU,-5.8202245,-35.2074644,book_store
+174,Livraria Moderna,ChIJ_f__bwwAswcR2f9zUnwxOv8,-5.7896212,-35.2082904,book_store
+175,SEBO KERO LIVROS,ChIJJ1yApXMAswcRvzihV-kN0d4,-5.78494,-35.207297,book_store
+176,Sebo Café,ChIJU--dU3IAswcRmPElaAl8p9c,-5.7846893,-35.2069979,book_store
+177,Sebo Passarim,ChIJlyzT8qmqswcRtneJlxuwrro,-5.8062479,-35.21474389999999,book_store
+178,Gilgal Livraria Evangélica,ChIJYelljYv_sgcRph6p8aX8fME,-5.8407727,-35.2094683,book_store
+179,GILGAL LIVRARIA EVANGÉLICA,ChIJxa0ywgtXsgcR_6qQk5jJD5I,-5.917834399999998,-35.2618281,book_store
+180,Livraria Independência,ChIJUS_2yqeqswcR2URYcAs4sg8,-5.794293299999999,-35.2165309,book_store
+181,Livraria Arco Íris,ChIJBwAAEHMAswcR0iaIogPmm2U,-5.7829522,-35.2052921,book_store
+182,Livraria Confiança,ChIJz8dYyqeqswcR3zhnUS7AnmM,-5.800083000000001,-35.221944,book_store
+183,Livraria Progresso Mundial,ChIJpe4zUKmrswcRirbyRa3iG2M,-5.763200900000001,-35.2618719,book_store
+184,BooKafé Macaíba,ChIJReW0fjFSsgcRQ6eJz02O_R0,-5.854036900000001,-35.3519453,book_store
+185,Livraria Câmara Cascudo,ChIJjf__twtXsgcRKkLPd9vd9O4,-5.9172366,-35.2607599,book_store
+186,Gilgal Livraria Evangelica,ChIJt82rVnIAswcR5ivFgH9ep_g,-5.7882387,-35.2079566,book_store
+187,GilGal Livraria Evangélica,ChIJCZATM3v_sgcRJyRJTA6hauU,-5.7962757,-35.2201771,book_store
+188,Índia Brasil,ChIJEbSNpXIAswcR0VIa8MyXtjc,-5.787086200000001,-35.20441169999999,book_store
+189,Santa Clara Cafeteria,ChIJcb6iVfr_sgcRVWNoKc8tqbc,-5.811363999999999,-35.206191,cafe
+190,Coffee Hall Nalva Melo,ChIJ6YM6QXAAswcREYEuf5OK838,-5.7773534,-35.204712,cafe
+191,ITALIA CAFE,ChIJexv0h0EAswcR2x_xONjV1Gc,-5.784106500000001,-35.1907807,cafe
+192,UNILIVREIRA - Editoria Salgado Filho,ChIJu1ooVvv_sgcRW3rOLvJonxs,-5.809740999999999,-35.204192,cafe
+193,Baba de Moça,ChIJNa18jYv_sgcRtKxDallZal4,-5.818285,-35.20638,cafe
+194,São Braz Coffee Shop,ChIJt76iVfr_sgcRSvGtYnGirxs,-5.811254099999999,-35.206223,cafe
+195,NicHouse134,ChIJ1_d6UaqqswcRNTQqPa2U1HU,-5.800815,-35.217891,cafe
+196,Balzac Café,ChIJt76iVfr_sgcReQ3Af8LTeyA,-5.811254099999999,-35.206223,cafe
+197,Distribuidor Independente Herbalife Natal RN - Kênia Raissa e Paulo Jr,ChIJ7-J5aWZVsgcRtl7eTpz1aO0,-5.8205548,-35.2098887,cafe
+198,Colirioos,ChIJgRmVn2xXsgcRNz4x3qHw8UQ,-5.918565000000001,-35.2718609,cafe
+199,BooKafé Macaíba,ChIJReW0fjFSsgcRQ6eJz02O_R0,-5.854036900000001,-35.3519453,cafe
+200,Casa do Chá,ChIJP5mbTuBUsgcR3uC1cxG_QDg,-5.821042899999999,-35.2605463,cafe
+201,Lirius Boutique do Pão,ChIJf12emxAAswcR0XI6y_rvO_4,-5.812386999999999,-35.22651409999999,cafe
+202,Virgulinu's Bistrô Regional,ChIJRWK8_XpVsgcRyKCZqKvs2Zk,-5.8363242,-35.2248418,cafe
+203,Barbearia Novo Visual,ChIJf1F43C-pswcRvXl_OKM6Fn4,-5.753854,-35.264493,cafe
+204,Crowd Coffee Brasil,ChIJgccphvT_sgcR1psXaub8z1Y,-5.8172592,-35.21847450000001,cafe
+205,Abimileques Soares Dias,ChIJoT4VlKuqswcR30wtoURE32w,-5.801277199999999,-35.2192324,cafe
+206,Puro Sabor,ChIJOY-olaiqswcRbQw6jcJ9jVs,-5.796578999999999,-35.2187899,cafe
+207,São Braz Coffee Shop,ChIJu5y2UUWqswcRfu4F7Gvhe70,-5.7578474,-35.2472241,cafe
+208,Espaço Vida Saudavel Herbalife,ChIJlcCcu_yqswcR8obBu6OIunA,-5.748664,-35.30780699999999,cafe
+209,Igreja de Cristo em Boa Esperança,ChIJR6Qy5QpXsgcRhq_fy7Wdfow,-5.925873999999999,-35.26187499999999,church
+210,Igreja Batista Sinai,ChIJpzHYBGEAswcRtIYFEBIbjO4,-5.773348,-35.196129,church
+211,Igreja de Cristo no Brasil,ChIJd9EH-UCqswcRPGnoN9Z1DgI,-5.751750599999999,-35.2397475,church
+212,Paróquia de Santa Rita de Cássia dos Impossíveis,ChIJHda4rDP_sgcRnh9utPr3REE,-5.8751983,-35.1845756,church
+213,Natal's Metropolitan Cathedral,ChIJ9f__t20AswcRTZuPUT_qk1I,-5.788080000000001,-35.203762,church
+214,Rafael Léo,ChIJW6yq2oNVsgcRC-F7pdL4g58,-5.850517700000001,-35.2230892,church
+215,Paróquia de Nossa Senhora Aparecida,ChIJraA3pWD_sgcR6bMvlxdghc4,-5.857478899999998,-35.2096761,church
+216,Igreja Batista em Parque dos Coqueiros,ChIJzVc5k6CrswcR2D0CLuui-WE,-5.7607476,-35.2728379,church
+217,Paróquia de Cristo Rei,ChIJmSwf8WD_sgcRnT5lurZbk-s,-5.8698263,-35.2085648,church
+218,Comunidade Evangélica Integrada Amazônia - CEIA (Casa Pastoral),ChIJ-R5fuFlVsgcRw5P_q3M37fw,-5.8147798,-35.2185788,church
+219,Igreja Presbiteriana de Parnamirim,ChIJvdRJfAFXsgcRh9pbW1cVIZo,-5.909846,-35.26408499999999,church
+220,Evangelical Church Assembly of God,ChIJAU2oBnxVsgcRtHrqBT6pUpg,-5.834924300000001,-35.2206686,church
+221,Arquidiocese de Natal,ChIJCZF0DBEAswcRSRRGxq6X5ng,-5.7881673,-35.2035321,church
+222,Paróquia de São Sebastião,ChIJw_Vsrq2qswcRk--ZfPrr1pk,-5.8013197,-35.2229604,church
+223,Igreja Adventista do Sétimo Dia de Cidade da Esperança,ChIJgxnAbxVVsgcRsrC3fwI0TdQ,-5.82121,-35.23887499999999,church
+224,Primeira Igreja Presbiteriana Independente de Natal,ChIJVy8BtnIAswcRKd3vUWLJSlE,-5.7872088,-35.20512250000001,church
+225,Igreja Batista de Capim Macio,ChIJkdE-e0P_sgcRD5dJBNb2Wdg,-5.862545099999999,-35.2018155,church
+226,"IEADERN - Assembleia de Deus Amarante II, setor 28",ChIJ5Sj87A2rswcRiV6LAdfmMig,-5.7746341,-35.27700890000001,church
+227,Igreja Evangélica Assembléia de Deus em Parnamirim/RN - ADPAR,ChIJiat4PwtXsgcRluihtMGjyP0,-5.9241144,-35.262854,church
+228,Igreja Presbiteriana do Pirangi,ChIJt0j4DlP_sgcRm25fGO7NYuM,-5.875102900000001,-35.2083758,church
+229,Igreja de Cristo no Brasil - San Vale,ChIJu6mpi0JVsgcRJbsJPGVnxpM,-5.861584499999999,-35.2214736,church
+230,Assembleia de Deus Rios de Água Viva,ChIJg4artZmrswcRNVPYtOMltPA,-5.7577224,-35.2828133,church
+231,Igreja do Evangelho Quadrangular,ChIJZYKN7rSqswcRBDIbrp_OIuk,-5.801512,-35.2332535,church
+232,Evangelical Church Assembly of God,ChIJB0FNfzL_sgcRpSq3haENLJs,-5.875005300000001,-35.182301,church
+233,São Lucas Parish,ChIJXU3MIRGrswcRJEOjCxByP2I,-5.777447,-35.27271100000001,church
+234,Paróquia Santuário Nossa Senhora de Fátima,ChIJWfe0LyCqswcRZf6btSX_Cd0,-5.7346116,-35.2374327,church
+235,Igreja Batista do Alecrim,ChIJax89jquqswcRbGNsR5dfdyg,-5.8012564,-35.2199276,church
+236,Evangelical Church Assembly of God,ChIJx7mE6Pv_sgcRngH5WsIWcMk,-5.811630699999999,-35.2088952,church
+237,Igreja Batista of Hope,ChIJHYxyrmtVsgcRXfZBQ97EFhs,-5.823557999999999,-35.233486,church
+238,Igreja Adventista do Sétimo Dia - Nova Natal,ChIJn4uc1SqqswcRRoyJ0rvKMR8,-5.7330834,-35.2587321,church
+239,Parish St. Francis of Assisi,ChIJ80XjaOZVsgcRC3yJiNKgzEc,-5.8674998,-35.2340115,church
+240,Igreja Batista Cristã,ChIJLexKUK2qswcR3n5W6Vkzlds,-5.8005851,-35.2277649,church
+241,Igreja Adventista do Sétimo dia do Alecrim,ChIJwXtQCayqswcRomdClyp8avY,-5.800608899999999,-35.220696,church
+242,Igreja Presbiteriana Marinas Praia Sul,ChIJ2YDRLUP_sgcRP8etGTC-X80,-5.861110999999999,-35.2032669,church
+243,Catedral das Assembleias de Deus Campo Alecrim,ChIJD94WQktVsgcRxWtoxeREiDg,-5.804440100000001,-35.2322152,church
+244,Universal Church of the Kingdom of God,ChIJVcmOcxJXsgcRAw0M0-HIG8E,-5.919573600000001,-35.26929520000001,church
+245,Segunda Igreja Presbiteriana Independente de Natal - (2ª IPI),ChIJtxF-x_r_sgcRAhcRXV3yG-Y,-5.8130545,-35.2047877,church
+246,Evangelical Church Assembly of God,ChIJ23PD8mVWsgcRRFj-D-WDmHo,-5.8851378,-35.248367,church
+247,Igreja Presbiteriana Memorial do Natal,ChIJbbfEkDhVsgcRINbiv2OxSag,-5.815515899999999,-35.23650979999999,church
+248,Universal Church of the Kingdom of God,ChIJuaej_1JVsgcRVffcckUcMmc,-5.806757,-35.2329519,church
+249,Igreja Matriz de Nossa Senhora da Conceição,ChIJdyPgaS5SsgcRfSm6ytFHRmw,-5.858067,-35.353481,church
+250,ADPAZ ZONA SUL,ChIJmWHqBGX_sgcR0ZzGW8OWwH8,-5.862564,-35.20581289999999,church
+251,Igreja de Cristo Cidade Verde,ChIJWQednJX4sgcRUIqoLl3HyJI,-5.8951744,-35.1960156,church
+252,igreja Apostólica Ministério Cristão ABA PAI,ChIJm_2nurr4sgcRl1kfGnBhptU,-5.887703699999999,-35.1970853,church
+253,Igreja Universal do Reino de Deus,ChIJ60ZLm4z_sgcRVbftiinz2ho,-5.8241482,-35.2088261,church
+254,A Igreja de Jesus Cristo dos Santos dos Últimos Dias,ChIJS_T7h774sgcRUsEstzcKCrA,-5.892019299999999,-35.19768459999999,church
+255,Igreja Internacional da Graça de Deus,ChIJ4x9mrE1VsgcRUXU6i-0mLiA,-5.805807599999999,-35.2283816,church
+256,Igreja Adventista do Setimo Dia da Redinha,ChIJe24JeqMAswcRdvd7Fm6Eu3Y,-5.7484898,-35.20631209999999,church
+257,Hope Igreja Batista,ChIJhysLDBVVsgcRuhCWRxak7X0,-5.821908000000001,-35.239052,church
+258,Brazilian Missionary Igreja Batista,ChIJG06IEDT_sgcRkEvEqLr7DEU,-5.873785100000001,-35.1884525,church
+259,Igreja Cristã Evangélica Cidade Praia,ChIJVVVVVXGpswcRQT-tvjK9YcU,-5.7462037,-35.2615425,church
+260,Assembleia de Deus - Ministério da Plenitude (Pajuçara),ChIJgRs3XfpVsgcRBbrz6bsbE9o,-5.721670899999999,-35.2440658,church
+261,Igreja Evangelica Assembleia de Deus,ChIJbUCBTBsAswcRzracwckzCKM,-5.8004627,-35.2034196,church
+262,Clube de Desbravadores Castelo Forte,ChIJqZWc1SqqswcRO6Y_10VOEBg,-5.733138999999999,-35.25860799999999,church
+263,Igreja Evangélica Assembleia de Deus - Gramoré - Setor XI,ChIJdVPqiIepswcR4vrUGKdwRCg,-5.7316812,-35.2499998,church
+264,Igreja de Nossa Senhora do Rosário,ChIJGeLGzN6rswcRVeYdJl5xxTE,-5.732751999999999,-35.275329,church
+265,Assembleia de Deus Missão Resgate,ChIJLxUoaaKrswcRCrjtSsKJ8-s,-5.7599531,-35.2786999,church
+266,Igreja Assembléia de Deus do Mato Grosso do Sul em Natal,ChIJ10XVVXypswcRCb641jXumiw,-5.727926999999999,-35.266839,church
+267,A Igreja de Jesus Cristo dos Santos Dos Ultimos Dias - Instituto Natal,ChIJvcXeuZT_sgcRCXbei3zUt_U,-5.8412144,-35.2121209,church
+268,Igreja Assembléia de Deus - Pirangi,ChIJVxMW3k__sgcR07MWPpyVVCk,-5.866795699999999,-35.2038293,church
+269,Hospital de Olhos do Rio Grande do Norte Ltda,ChIJOdH4qxQAswcRomfAIg0klf0,-5.788450199999998,-35.197789,doctor
+270,Clinica Marco Almeida,ChIJeVx9DeX_sgcR2EtrhjRqwVY,-5.813347899999999,-35.2017055,doctor
+271,Equipe Unicad,ChIJ7daMNhMAswcRb4zq8uNukvU,-5.788465299999999,-35.19985,doctor
+272,Medimagem,ChIJHxZN5BAAswcRVcLKxHOt78g,-5.794932399999999,-35.2003408,doctor
+273,Clinic More Women,ChIJAacRqBQAswcREDy0vllaOuQ,-5.7879802,-35.1981237,doctor
+274,Pedro Cavalcanti Clinic - Tyrol,ChIJKeF2dBEAswcRtcDNSv0LhM4,-5.792210899999999,-35.2004058,doctor
+275,All Pé Dr. Scholl,ChIJoXwAyT7_sgcRiy6hoP34j5Y,-5.862506399999999,-35.1905608,doctor
+276,Cardiocentro,ChIJ-9kqNRMAswcR96e0yuFR2_8,-5.7903718,-35.2011509,doctor
+277,Medcenter,ChIJG3DYWfz_sgcRYnP5kh4hWtM,-5.8029115,-35.2050072,doctor
+278,Odonto Radiological Institute Of Natal,ChIJ_732g2wAswcRU3PMdqAhOw0,-5.785871200000001,-35.2000562,doctor
+279,"Arnóbio Pacheco, Dr",ChIJi4eOBBMAswcRkxmtMSMTXVM,-5.789887999999999,-35.20091469999999,doctor
+280,AMI Tirol,ChIJ2frIRBsAswcR37GSVrWBhoI,-5.8006622,-35.2028775,doctor
+281,Centro de Endocrinologia de Natal,ChIJK0PmHxEAswcRpb2Qwgmkrxs,-5.7915668,-35.19816660000001,doctor
+282,Endoscopia Institute Natal Digestive,ChIJlUKdMxMAswcR6OjsJP53woc,-5.7908012,-35.2005878,doctor
+283,SKOPIA Clínica do Aparelho Digestivo,ChIJBRJgBhUAswcRwHo7sqIUmqI,-5.7905839,-35.1949364,doctor
+284,Oral Estética,ChIJ81rH_FhVsgcRzp7BGTB0HJg,-5.816190199999999,-35.2172619,doctor
+285,Otoclínica Otorrinolaringologia,ChIJd0gPlBoAswcRSWxqwNQo8d0,-5.800095399999999,-35.2029872,doctor
+286,Cardioclínica - Dr. Ovídio Fernandes,ChIJBxtueRQAswcR7HR-YBvOV7A,-5.790650999999999,-35.19885099999999,doctor
+287,Gastrocentro,ChIJfV4w0gQAswcRPE0k707QC4o,-5.798699200000001,-35.2037056,doctor
+288,Clinical Center Igapó,ChIJFyO2bQmrswcRU7_2q97p-_A,-5.7716372,-35.2640367,doctor
+289,Autran Nunes Odontologia,ChIJHwjofBEAswcRr7vINPl5_xE,-5.7935348,-35.1984028,doctor
+290,Orale Odontologia Personalizada,ChIJaUt0MRMAswcR7wB1mw3vALw,-5.7883444,-35.200229,doctor
+291,Clínica Reabilite-Centro de Fisioterapia e Medicina Integrado,ChIJ3d3HaRMAswcRYqj7gLiYzi4,-5.789281699999999,-35.1996656,doctor
+292,Clínica In Forma,ChIJ7yBJ0AIAswcRICPS9e4ffz0,-5.803564699999999,-35.2042209,doctor
+293,Bio Clínica,ChIJb_R1Wfz_sgcRpIOGtSBz074,-5.8084943,-35.2068288,doctor
+294,Clinical Christ the King,ChIJCyT1J1D_sgcRTOvV_SXhtas,-5.869166600000001,-35.2042209,doctor
+295,Edilza Maria Andrade,ChIJJ7ZNqPD_sgcRoHAjtLXQfuA,-5.8181227,-35.2102199,doctor
+296,Otocentro RN,ChIJDSHFEBsAswcR7uRz7DiDwog,-5.824433099999999,-35.2066427,doctor
+297,Tereza Luz Ortodontia,ChIJex41cGkAswcRX8QcSEembDE,-5.7824398,-35.19650470000001,doctor
+298,Luiz Paulo Vieira,ChIJ-9nVkBoAswcR6KTzAF0N3_Y,-5.7907856,-35.1997363,doctor
+299,Centro de Radiologia de Natal,ChIJ31Rp8PP_sgcRYAKRk2VsCyg,-5.8187313,-35.2092324,doctor
+300,Vita Pilates,ChIJgVwdBX7_sgcRExoFUQz6Zhw,-5.840711799999999,-35.2175463,doctor
+301,Dr. Jean Pedro Damião - Disfunção e Dor ATM - Bucomaxilofacial,ChIJf8nKUfr_sgcRWF62WUkT7H4,-5.818379600000001,-35.2216512,doctor
+302,CEN - Laboratory,ChIJF0HG1S__sgcRly5EO-ojOuM,-5.8711423,-35.1817788,doctor
+303,Fonoaudiólogo em Parnamirim,ChIJB8GcewZXsgcRGqa8Wya9n34,-5.9135926,-35.2641383,doctor
+304,Dr Jarbas Uchôa de Araújo,ChIJ9fmNihYAswcRwU3thqV7U7g,-5.793723000000001,-35.19717099999999,doctor
+305,Angio Cárdio,ChIJ9y-c5RMAswcRV52KKNGho3A,-5.7915902,-35.2008471,doctor
+306,Clínica Marcio Tassino,ChIJDw-vpRIAswcR1Z8F4e2vosA,-5.7885129,-35.2032763,doctor
+307,Clínica Marcos Aurélio Machado,ChIJVw7rpfD_sgcR2NJ0WjcGYBI,-5.814001999999999,-35.209149,doctor
+308,Dentista Popular,ChIJQ-F-2nIAswcRue4_DV8L-Yg,-5.787106899999999,-35.2061326,doctor
+309,Clínica Hemo-Onco,ChIJm5RX-hMAswcRTVnqvA02LOY,-5.785898599999999,-35.19634959999999,doctor
+310,Nefron Clínica,ChIJr6ZRJBMAswcR-PRvs4wQHBY,-5.7881523,-35.2018984,doctor
+311,Clínica Mensana,ChIJF049q-L_sgcRVHUoLcKgbIg,-5.805358699999998,-35.2041914,doctor
+312,Cia Oral,ChIJi5-MOgkAswcRYEwbTIhosfQ,-5.802977900000001,-35.2218399,doctor
+313,Instituto do cérebro,ChIJD5ChyBMAswcR-ZCLSgvd7to,-5.7824151,-35.19648180000001,doctor
+314,C I A M,ChIJYSn-4O3_sgcREMdY--vr2ow,-5.8181011,-35.2024172,doctor
+315,Atendimento Odontológico para Pacientes com Comprometimento Sistêmico,ChIJpYkaSRoAswcRfLpOr0WDvAE,-5.799428499999999,-35.1956117,doctor
+316,Espaço Fono - Audiometria & Terapia Fonoaudiológica,ChIJB8GcewZXsgcRhQP9MA22EjM,-5.9135926,-35.2641383,doctor
+317,Dentistas Premier Odonto - Potengi,ChIJj7ZVbVCqswcRjnW2k4_bNhw,-5.7575711,-35.2493807,doctor
+318,DR. DAVI PONTES CIRURGIA PLÁSTICA NATAL E TRANSPLANTE CAPILAR - CLÍNICA ESTETCENTER,ChIJvaVKE2kAswcRiKpPZPdyoUA,-5.803775,-35.21248120000001,doctor
+319,Institute of Oncology Hematology Christmas,ChIJcz0BcHQAswcRKRHAm4GUGM0,-5.7814233,-35.196886,doctor
+320,Fonoaudiologia Padovan,ChIJ4aL3pERVsgcRMVcPYS5dsWA,-5.820456699999999,-35.2162422,doctor
+321,Dr. Leonardo Ribeiro de Andrade,ChIJm5RX-hMAswcRolmiKw6q0l8,-5.792743,-35.200807,doctor
+322,CDR - Natal Clínica de Doenças Renais,ChIJyQL8_28AswcRXQtfu59KtHY,-5.7788974,-35.2037095,doctor
+323,Espaço Saúde e Movimento,ChIJeW3Lq4H_sgcRXWuCNkybP6Q,-5.8382361,-35.211979,doctor
+324,Pró Saúde Clínica,ChIJudpxXvv_sgcRnSkL_PNttzk,-5.810190599999999,-35.2051118,doctor
+325,Ecolab,ChIJHSA0E2kAswcRVmspo2_UfGI,-5.7824151,-35.19648180000001,doctor
+326,Sociedade de Pediatria do Rio Grande do Norte,ChIJkyy_r_D_sgcROUzZXtICubw,-5.809285399999999,-35.2220818,doctor
+327,Dra. Soraya Cruz,ChIJrbUenRoAswcRMCP3SP1Jb88,-5.808108099999999,-35.20372,doctor
+328,Hospital Odontológico,ChIJTfxZIamqswcRSmbFY9-rY30,-5.798006600000001,-35.2192474,doctor
+329,Alpha Odonto Clínica Especializada de Natal,ChIJo3wkUvr_sgcRY9lPf-P1g5M,-5.8121712,-35.2072173,dentist
+330,Uniodonto,ChIJ9SgEYRMAswcRu2phXGF4mCQ,-5.789402600000001,-35.1986483,dentist
+331,Oral Estética,ChIJ81rH_FhVsgcRzp7BGTB0HJg,-5.816190199999999,-35.2172619,dentist
+332,IORN - Instituto Odonto-Radiológico de Natal - Seaway,ChIJO8UYDz__sgcRD-aRT3Se3xA,-5.8599286,-35.1943773,dentist
+333,Paulident,ChIJHw-r31CqswcRkr1CZ2iN2rc,-5.7615025,-35.2501699,dentist
+334,Clínica Vicente de Paula,ChIJ7S8KpeL_sgcRbdZBapHdREE,-5.8056167,-35.2035355,dentist
+335,Autran Nunes Odontologia,ChIJHwjofBEAswcRr7vINPl5_xE,-5.7935348,-35.1984028,dentist
+336,Orale Odontologia Personalizada,ChIJaUt0MRMAswcR7wB1mw3vALw,-5.7883444,-35.200229,dentist
+337,Orthon New ClÍnica de Ortodontia,ChIJv6cX5gwAswcRr9SY4Pi7V3E,-5.7883816,-35.2069076,dentist
+338,Centro de Assistência Social Cedrus,ChIJve5hVKqqswcR0GJGwrV-gXo,-5.801826000000001,-35.2175301,dentist
+339,Clínica Vicente de Paula,ChIJF9vbWfz_sgcR5-p_lmwvnh0,-5.8031179,-35.2051655,dentist
+340,Neo Odonto,ChIJdcdZnBQAswcRkemCk5Q7wmk,-5.7896556,-35.1989608,dentist
+341,Cieo Clínica de Ortodontia,ChIJA8lRmIr_sgcRr4tU4pfC-h0,-5.832229,-35.2174903,dentist
+342,Odontocentro,ChIJD6vDsXMAswcRY6P5Qpz5u2k,-5.784837,-35.2070756,dentist
+343,Tereza Luz Ortodontia,ChIJex41cGkAswcRX8QcSEembDE,-5.7824398,-35.19650470000001,dentist
+344,Multifam Clínica Médica e Odontológica,ChIJxX9_ZRIAswcRbhoLMk8JxKA,-5.7904334,-35.2031779,dentist
+345,Odontoface,ChIJ-4-cNxsAswcRZFNlkdrU60o,-5.799631300000001,-35.2035824,dentist
+346,Ortodontia Amil Dental Natal,ChIJf8nKUfr_sgcRfiJVTt9SIy8,-5.812235799999999,-35.207243,dentist
+347,Carolina Cortez,ChIJaw0DoxIAswcRRGv_1cMBhHM,-5.788664600000001,-35.2038727,dentist
+348,Clínica Dentária do Alecrim - Dentista Popular,ChIJVVVVVaiqswcRSl7Wm0UcNJY,-5.795509900000001,-35.2204492,dentist
+349,Dr. Jean Pedro Damião - Disfunção e Dor ATM - Bucomaxilofacial,ChIJf8nKUfr_sgcRWF62WUkT7H4,-5.818379600000001,-35.2216512,dentist
+350,Centro Clínico,ChIJGQFQAxoAswcRMLSyK7GTziM,-5.798575,-35.19774799999999,dentist
+351,Dickson Martins da Fonseca Odontologia Integrada,ChIJGdsAs2wAswcROLnJ3qlNdRA,-5.7877745,-35.1996411,dentist
+352,Dentista Popular,ChIJQ-F-2nIAswcRue4_DV8L-Yg,-5.787106899999999,-35.2061326,dentist
+353,Cia Oral,ChIJi5-MOgkAswcRYEwbTIhosfQ,-5.802977900000001,-35.2218399,dentist
+354,Mais Odonto,ChIJPZXwwAtXsgcRBt_-m6dAZ_g,-5.915287999999999,-35.260423,dentist
+355,Atendimento Odontológico para Pacientes com Comprometimento Sistêmico,ChIJpYkaSRoAswcRfLpOr0WDvAE,-5.799428499999999,-35.1956117,dentist
+356,LABVIDA - Laboratório de Análises Clínicas e Odontologia,ChIJ5z2m01KqswcR6YgQEi31pMI,-5.7589118,-35.2595769,dentist
+357,Oral Way - Dental Center,ChIJDYS-Vfr_sgcRbWu6V2oOFcI,-5.8598668,-35.1944047,dentist
+358,Odonto Centro,ChIJVVVVVaiqswcRKngJE3D4-Zc,-5.7958335,-35.2204955,dentist
+359,Dentistas Premier Odonto - Potengi,ChIJj7ZVbVCqswcRjnW2k4_bNhw,-5.7575711,-35.2493807,dentist
+360,POP - Parnamirim Odontologia Personalizada,ChIJS3jK6gdXsgcRw19XwN0BlaA,-5.9154934,-35.26020599999999,dentist
+361,Carlos Alexandre Câmara,ChIJ5xenNxMAswcRvbN4AJN8SdA,-5.7884339,-35.1999223,dentist
+362,Dental Care - Odontologia Especializada,ChIJYc_F_YD_sgcRAeo6DMuGeIw,-5.837703500000001,-35.2127603,dentist
+363,Carlos Alexandre Câmara,ChIJZ_wRwgQAswcRfthm0QAil1Q,-5.799352000000001,-35.2053959,dentist
+364,Sorridents Natal Alecrim,ChIJn9xiIamqswcRZL65ahkmwCo,-5.795869499999999,-35.2158205,dentist
+365,Sorridents Natal Igapó,ChIJAQAAAAGrswcR3bh1QFRLWSI,-5.774010400000001,-35.25791840000001,dentist
+366,Espaço Saúde e Movimento,ChIJeW3Lq4H_sgcRXWuCNkybP6Q,-5.8382361,-35.211979,dentist
+367,Clinica Dentale,ChIJKXErTRpXsgcR7xgawE4zhHo,-5.920479,-35.26192899999999,dentist
+368,Cofam Convênio Odontológico,ChIJyfARcv3_sgcRKfHDJLhXNKI,-5.8091952,-35.20741739999999,dentist
+369,WM Fitness,ChIJn4j8IYf_sgcRUOwAmxmHZz8,-5.8344602,-35.2125635,gym
+370,Academia Shaolin Kung Fu Garra de Águia - Ying Jow Pai,ChIJ2680hBZXsgcRM5RstK1WMDM,-5.921338,-35.271073,gym
+371,M1 Fitness,ChIJIZmwax1VsgcROqQOqiPY19A,-5.823849399999999,-35.2591958,gym
+372,The Pilates Studio Brasil,ChIJh9Uoj0RVsgcRDcsV0CoTIrw,-5.792898399999999,-35.2007814,gym
+373,Bodytech - Tirol,ChIJF7UdWhAAswcR66ga_MA-OL4,-5.793368300000001,-35.2008743,gym
+374,Corpo e Saúde Academia,ChIJvexClv__sgcRXCamTA6EXJc,-5.8062488,-35.2135804,gym
+375,Hi Fit gym,ChIJbzjTCHH_sgcRYXAH-ewX2UA,-5.847335499999999,-35.2002419,gym
+376,Fibra Academia,ChIJZw6aLWoAswcRxVSQSxb4JxE,-5.781383400000001,-35.2011287,gym
+377,Ápice Academia,ChIJZ09SeWj_sgcRtVAaD26JpOc,-5.8559421,-35.202525,gym
+378,Clínica Reabilite-Centro de Fisioterapia e Medicina Integrado,ChIJ3d3HaRMAswcRYqj7gLiYzi4,-5.789281699999999,-35.1996656,gym
+379,Fisiovida Studio Pilates,ChIJVSh8619VsgcR37qfTs2qUYU,-5.820420299999999,-35.2152977,gym
+380,Stylo Academia,ChIJGSEMpeP_sgcRt9p0-Q3XiHk,-5.811851799999999,-35.2014423,gym
+381,Studio A2 Pilates,ChIJezf7VmX_sgcR0x7g-kDVnb0,-5.853803999999999,-35.205462,gym
+382,Shaolin Kung Fu Garra de Águia,ChIJazXTQs34sgcR1jLyLu-VZgc,-5.878748000000001,-35.182557,gym
+383,EXtreme Fitness Academy,ChIJadSgM2VVsgcRTCAYMa6I_Jk,-5.830356,-35.2239034,gym
+384,Vita Pilates,ChIJgVwdBX7_sgcRExoFUQz6Zhw,-5.840711799999999,-35.2175463,gym
+385,Espaço Vida Saudável Herbalife Lagoa Nova Natal RN,ChIJrfrmOVhVsgcRu-qIkxZl2EU,-5.8232773,-35.2182457,gym
+386,Modeladores Yoga,ChIJc-LainIAswcR6zwYtYoRSaY,-5.7854997,-35.2052029,gym
+387,ESCOLA DE BOXE CHINÊS E KUNG FU TRADICIONAL DO RN,ChIJE5VhMRRXsgcRjst2onEe7FA,-5.921381999999999,-35.271069,gym
+388,Cirp,ChIJuyxOKhoAswcREyEq31_RLes,-5.7979473,-35.1975992,gym
+389,Academia Garra Fitness,ChIJaUGOmw-rswcRCqLmhCgnupQ,-5.772454199999999,-35.27061279999999,gym
+390,Escola de Kung Fu Lung Fu,ChIJgYvl2INVsgcRS3QWM4arVCs,-5.845231999999999,-35.21740599999999,gym
+391,Foco Pilates,ChIJbwm8tTb_sgcRwxhcEXijtaA,-5.871956700000001,-35.1874948,gym
+392,budokan-rn,ChIJg54FZWFVsgcRXUqWSRBGPGg,-5.826158800000001,-35.2186033,gym
+393,Cia Movement,ChIJ_f__FwYAswcREgKqtuYathg,-5.797083,-35.21044799999999,gym
+394,ESCOLA DE BOXE CHINÊS DO RN,ChIJhS2pR834sgcR9wO6pKJ-vy4,-5.921351,-35.271089,gym
+395,PLATINUM PRIME,ChIJAS5eVVZVsgcRa95LyRaQbCw,-5.8109632,-35.2176348,gym
+396,Academia Cel Walterler,ChIJdx0UkWcAswcRSOipK8xxXs8,-5.772416000000001,-35.1954229,gym
+397,R3 Academia de Ginástica,ChIJFUVSeWj_sgcR5sGYsLg7M-k,-5.8559261,-35.2025678,gym
+398,joão emanoel,ChIJg8gI6hWqswcRgSoEXbPUDCE,-5.911554499999999,-35.2713164,gym
+399,New Life Academy,ChIJxWvZqWX_sgcR1Q8-KW5RrGA,-5.851366,-35.2076118,gym
+400,Personal Academia Especializada,ChIJkyy_r_D_sgcR6iiMNYszpwE,-5.814134999999999,-35.21726,gym
+401,Arena Academia,ChIJbwppvYz_sgcR8sa0h1u2ZDo,-5.823777000000001,-35.20860999999999,gym
+402,H Fitness,ChIJ8-OiABxVsgcRDxDKZuzEseY,-5.8242587,-35.2533399,gym
+403,Sport Life Academia,ChIJP0pNDExUsgcRUzs8mMBePpY,-5.849424299999999,-35.26304399999999,gym
+404,Garra Equipamentos para Musculação,ChIJ3dVPvA-rswcR_C914zEEvfQ,-5.7719226,-35.27081979999999,gym
+405,ACADEMIA MSL VITALLY,ChIJQxJs-wtVsgcRjCmg2xWkBuE,-5.834162200000001,-35.2419059,gym
+406,Centro de treinamento TNT KOMBAT MuayThai,ChIJ2czDsLZVsgcRO6MpTFWgZaI,-5.851096,-35.252349,gym
+407,Health Academy,ChIJZUiwxsusswcRWyf1YoispBs,-5.793069099999999,-35.3284151,gym
+408,Bello's Academia,ChIJ-Ylh6warswcR-wR5NAJ1h2I,-5.768966400000001,-35.2659979,gym
+409,Studio de Pilates K2,ChIJoUJqtnJVsgcRtVNYILAkpWM,-5.830383999999999,-35.23634430000001,gym
+410,Academia Edu,ChIJC0v_VOSqswcR6ngnRkeHMOQ,-5.778011799999999,-35.2507249,gym
+411,MaxXFIT Academia,ChIJUS9a5GxVsgcRe-6IaDCf5Gs,-5.827191699999999,-35.234959,gym
+412,Core3 Fit Academia,ChIJw8FPpMxVsgcRo6hKZzZvsCw,-5.859452800000001,-35.2579009,gym
+413,WL Movement Fitness,ChIJqeiSj8mqswcRsI3wNTmhhTk,-5.7975029,-35.236612,gym
+414,Academia MSL Vitally Planalto,ChIJ8TERc8xVsgcR6GAD984QJJQ,-5.859633899999999,-35.2548103,gym
+415,Health Academy,ChIJ03V98cWsswcR3vl2U1XRL6o,-5.7872062,-35.3311893,gym
+416,BFC NAGASHIMA FERA TEAM,ChIJ6Tp7-bxVsgcRdNOjvBr87Rc,-5.849050500000001,-35.2400466,gym
+417,High Performance Academy,ChIJUW8G1MdVsgcRMqYbVDBWV-E,-5.857364899999999,-35.2474855,gym
+418,PJ Bravos Funcional Stúdio,ChIJb3ZZoaqrswcRXJISAi8KFgo,-5.765913599999999,-35.2598803,gym
+419,Physico Pilates,ChIJ3_f3k6qrswcRJSODBPa-O84,-5.7653257,-35.26034509999999,gym
+420,Physico Pilates,ChIJRz3Yw4xUFAURmtxjs8q3jW8,-5.7651996,-35.2604859,gym
+421,Life Fitness,ChIJ194ezE1VsgcR4PSqHwCwcxE,-5.807388599999999,-35.2282576,gym
+422,Fox Fitness,ChIJ-3r16MZVsgcRVhMDF0pDIjs,-5.858501599999999,-35.24386519999999,gym
+423,Prime Fitness Academy,ChIJPb0Z0FpVsgcRQXqH7LG8_e0,-5.814464,-35.22520799999999,gym
+424,Academia Fiber Fit,ChIJ96OZba6rswcRtBDDIddW2IQ,-5.758201899999999,-35.2650606,gym
+425,Max Fit,ChIJbW7Dg62qswcRcfk_ibn6hNo,-5.801537300000001,-35.2254425,gym
+426,CF1050,ChIJewxhZFBVsgcRiIhvfGDKKjE,-5.8122881,-35.2235458,gym
+427,Kimura ZN,ChIJGxQhHlOqswcRiWcfQAqZ3_8,-5.7597383,-35.2571636,gym
+428,Pitbull Brothers Lagoa Nova,ChIJ4TguhXIAswcRVO0ZcBGFxK0,-5.8130466,-35.2213936,gym
+429,Depyl Action,ChIJPflKsIr_sgcRvyBh0tLHCyw,-5.8230444,-35.21397290000001,hair_care
+430,Depyl Action,ChIJoXwAyT7_sgcR_3GEevUe7SU,-5.8626378,-35.1903399,hair_care
+431,Depyl Action,ChIJCz5fnBQAswcRvbznxF89qcE,-5.7896207,-35.1987929,hair_care
+432,Depilla,ChIJh1LGPmX_sgcRlqbQ2iLYJNE,-5.8483336,-35.2068347,hair_care
+433,D'pil a Fotodepilaçao Inteligente,ChIJ46ucS2X_sgcRnF0PuNfs47E,-5.848679,-35.2055715,hair_care
+434,Belezaria,ChIJbbO8zhMAswcRQVYL1hyq6-A,-5.788067799999999,-35.19618349999999,hair_care
+435,Clínica Capilar Lucia Almeida,ChIJO29qJ-3_sgcR28g7iOnd6aw,-5.8600181,-35.2007754,hair_care
+436,FLASH - Centro de Estética,ChIJ83zjXDr_sgcRZINEeND9z8c,-5.867456,-35.185185,hair_care
+437,Beleza Center,ChIJ80Tf6XIAswcR_ss5sqZvT5w,-5.787162599999999,-35.2074859,hair_care
+438,Mari Anninha,ChIJiU7riRYAswcR8oGTpz9vxvA,-5.7933815,-35.1961921,hair_care
+439,Zellus Centro de Depilacão ltda,ChIJx39qOfH_sgcRcevsYcoC9_g,-5.816369999999999,-35.20823609999999,hair_care
+440,Centro De Estetica,ChIJ34SDcpX4sgcR17fHdqBJf1o,-5.896265000000001,-35.1952467,hair_care
+441,A&M Cabeleireiros,ChIJxXqoy3xVsgcRikz_F6BqHaQ,-5.7871629,-35.1974796,hair_care
+442,Lucilene Cabelos e Estética,ChIJPZXwwAtXsgcRpt9tT65A4Kc,-5.919618499999999,-35.2620278,hair_care
+443,Salão Beleza em Evidência,ChIJe7glnvr_sgcRwnUUC1UaN9M,-5.816716599999999,-35.2011079,hair_care
+444,Renilda Saldanha Cabelo e Estética,ChIJA2PClYz_sgcRhQnTz-LYH7Q,-5.8240398,-35.2079727,hair_care
+445,Barbearia clássica- são gonçalo do amarante,ChIJUf3KBhKrswcRS42Jr6cvy0w,-5.774127999999999,-35.2756171,hair_care
+446,Barber Shop BelezaVip,ChIJMUWUYqGrswcRyZ2b35bZPsk,-5.760594999999999,-35.277231,hair_care
+447,Percy Cabeleireiros,ChIJTy_pxLGqswcRSjPsh1P7A4w,-5.797832,-35.226433,hair_care
+448,Salão Paulynny Lima,ChIJUT9G9K2qswcRmopD2mH3JEI,-5.800418299999999,-35.2256166,hair_care
+449,Barbearia do Escocês,ChIJTyl_gWVVsgcRiaoeFktttug,-5.8289915,-35.2239331,hair_care
+450,Salão Imagem Pessoal,ChIJIXH7zVOqswcRYJxAfyOfB2c,-5.7607048,-35.2538201,hair_care
+451,Barbearia Novo Visual,ChIJf1F43C-pswcRvXl_OKM6Fn4,-5.753854,-35.264493,hair_care
+452,All Pé Dr. Scholl,ChIJq2ajDThVsgcRIlHUDavCfz8,-5.819953,-35.21772199999999,hair_care
+453,Barbearia Wolverine,ChIJo9ZwwYurswcRQJA9ucKwYb8,-5.749323399999999,-35.29880000000001,hair_care
+454,EDILEUSA DEPILAÇÃO E ESTÉTICA,ChIJ2-OpzFWqswcRH6mZbF-weZo,-5.757530599999999,-35.2493441,hair_care
+455,Depile-se / Showbrancelhas,ChIJq2DMK-P_sgcRFdv2m8IMlQU,-5.8371914,-35.21973990000001,hair_care
+456,Simone Design ( Design De Sobrancelhas E Depilação Feminina),ChIJz8mk-7SrswcR-6Yr4OjMH1k,-5.7510148,-35.26106859999999,hair_care
+457,Instituto Embelleze,ChIJuxzi01qqswcRloe2E8ayuho,-5.7586721,-35.2454463,hair_care
+458,Salão Vitalidade ME,ChIJy2P_Hn9VsgcR1EpceRdS68c,-5.837719000000001,-35.218787,hair_care
+459,Barbearia Número 33,ChIJg3CCgor_sgcRbJKcQKkzUao,-5.823976899999999,-35.21488190000001,hair_care
+460,Cia Do Pelo Depilação,ChIJCRZk6vX_sgcRSv-IX5-Jr5o,-5.8190771,-35.2135634,hair_care
+461,New House Depil,ChIJS_-uWsirswcRQUtow-Y0-NU,-5.746292799999999,-35.2677527,hair_care
+462,Barbearia 6th Avenida,ChIJ8_AF_qmqswcRpddjMB8vDP0,-5.800014,-35.214888,hair_care
+463,Angel Studio & Barber Girl,ChIJbZ8zNH33sgcRQlObG8RZvnw,-5.805629,-35.21122,hair_care
+464,Dinho Cabelos,ChIJZ6Jsk4j_sgcR3A6rK1kSsQM,-5.830456199999999,-35.2111497,hair_care
+465,Depilrica,ChIJk4HFjhQAswcR-iSU2wMOEwI,-5.819934900000001,-35.20808630000001,hair_care
+466,Não Mais Pêlo Lagoa Nova,ChIJAeAjSQMAswcRZztHQpfo8xU,-5.811406,-35.2080609,hair_care
+467,Barbearia Dom Manoel,ChIJB0o722IAswcRv_ntlcBdWuk,-5.8089239,-35.20753249999999,hair_care
+468,Natureza Afro Salon,ChIJ0fpfhvz_sgcRtz6V_W3_cvQ,-5.809298,-35.2063483,hair_care
+469,Depyl Action,ChIJ9SWXA3__sgcRNdTv1lPAwNU,-5.841620499999999,-35.2104321,hair_care
+470,5Quentona,ChIJJ5othwQAswcRRIn51UY_F_Q,-5.8005947,-35.2065055,hair_care
+471,All Pé Dr. Scholl,ChIJTUurXvz_sgcRg2vELhOGavI,-5.803667699999999,-35.2054445,hair_care
+472,Salão Anne Souza,ChIJzdLbVnMAswcRE2XTiTQ7o7c,-5.785778,-35.20898,hair_care
+473,Lu Depilação e Unha e cabelo,ChIJx7FXRw0AswcRfZNYz6o6f4Y,-5.7884946,-35.20524989999999,hair_care
+474,Cabelaria,ChIJbXjeXv1VsgcRMQuHYLDBCU0,-5.874572400000001,-35.22472880000001,hair_care
+475,Compadre Barber Shop,ChIJATqnT2H_sgcRGrKe26Jg8vU,-5.8543822,-35.20991910000001,hair_care
+476,Studio Lukas Souza,ChIJ_w_XCHH_sgcR5GscqI5xpGI,-5.844907,-35.205708,hair_care
+477,Evely Hair,ChIJFaLLkdarswcRMfQVBqXC8nI,-5.7333587,-35.2651388,hair_care
+478,Barbearia JOHNY RODRIGUES STYLE MEN,ChIJBWKuE5P_sgcR-mxT6et8lIQ,-5.825483999999999,-35.20039,hair_care
+479,D'pil,ChIJLVEQxHr_sgcRktDZP7GXSJQ,-5.848679,-35.2055715,hair_care
+480,Innove,ChIJDUWoWG0AswcR4YR3b-lmDcU,-5.7869994,-35.20384839999999,hair_care
+481,Tres Chic Salon,ChIJnaVY_G__sgcRIH3Twdsh0I0,-5.8481017,-35.2050743,hair_care
+482,Zellus - Centro de Depilação,ChIJs1wuVhAAswcROTDUgpUAZ6Q,-5.7950781,-35.2011267,hair_care
+483,Caxa Corte Salão Masculino,ChIJQ4-2JiuqswcRwDOxRSR2naI,-5.7334523,-35.257791,hair_care
+484,The Goodfather Barber Club,ChIJFbjl_hMAswcRYHpVhrXSQmA,-5.7974691,-35.19902080000001,hair_care
+485,Goodfather Barber Club,ChIJVVVxBRoAswcReHPTl-1z8uc,-5.7977265,-35.19841,hair_care
+486,Formas e Cores,ChIJz0trYmX_sgcRq-c1KkcXioc,-5.8511301,-35.2039249,hair_care
+487,No More At,ChIJgdy34m__sgcR5kpVX6Juovg,-5.8497821,-35.2031628,hair_care
+488,Dom Bigode Barbearia,ChIJqfOBLRoAswcRkBVGdXyCxQM,-5.7992158,-35.1978242,hair_care
+489,Hospital de Olhos do Rio Grande do Norte Ltda,ChIJOdH4qxQAswcRomfAIg0klf0,-5.788450199999998,-35.197789,hospital
+490,LIGA - Centro Avançado de Oncologia,ChIJeyGBkkdVsgcR_bQDOnLGNSA,-5.8157455,-35.229185,hospital
+491,Psicanálise - Eliezer Andrade,ChIJHSA0E2kAswcRnamtnNsJkiU,-5.782576799999999,-35.196502,hospital
+492,Equipe Unicad,ChIJ7daMNhMAswcRb4zq8uNukvU,-5.788465299999999,-35.19985,hospital
+493,Hospital Rio Grande,ChIJYVpXIBEAswcRtgxOyN-_D_w,-5.791415099999999,-35.1987336,hospital
+494,Casa de Saúde São Lucas,ChIJqahqPxEAswcRqOmZT8GWIuM,-5.793768699999998,-35.19992049999999,hospital
+495,INSTITUTO DE CARDIOLOGIA DE NATAL | CENTERPREV,ChIJs79cymwAswcRZsQSdyxMp3o,-5.7911002,-35.2013441,hospital
+496,Hospital AngioVascular,ChIJtRbsABEAswcRy0u0brHsajI,-5.792303399999999,-35.2000609,hospital
+497,Maternid. Esc. Januário Cicco,ChIJTZY5KWkAswcR2S_3bufpKSE,-5.781767500000001,-35.1980735,hospital
+498,Clínica Anna Júlia,ChIJB8RCXeX_sgcROrq8LhTzS0g,-5.824990099999999,-35.2066017,hospital
+499,Hospital de Guarnição de Natal,ChIJb5n2_BwAswcRsTTMIyFA70I,-5.803757199999999,-35.2002921,hospital
+500,Prontoclínica Dr. Paulo Gurgel | Natal,ChIJw2YCK3v_sgcRtsH6eBQvuNM,-5.8489719,-35.2066097,hospital
+501,Hospital Maternidade Belarmina Monte,ChIJGbJ2Ap2sswcR8BasGPU5S8o,-5.7920793,-35.3289232,hospital
+502,Funasa Fundação Nacional de Saúde,ChIJ90d-BOP_sgcReKzbm-zXryE,-5.8092256,-35.1996698,hospital
+503,Suvag RN Centro de Saúde Auditiva,ChIJBwpKQ0dVsgcR4VcMzDhVuDU,-5.8157527,-35.234372,hospital
+504,Clínica Tirol,ChIJ4dU86xoAswcRm0Rm03VtYIc,-5.7970272,-35.2018654,hospital
+505,Migun,ChIJ1XMv0xYAswcRWA0NUrC7W_8,-5.8067875,-35.20314119999999,hospital
+506,Hospital dos Pescadores,ChIJr_XFCYgAswcRM-l-IAIMllE,-5.771074399999999,-35.2029818,hospital
+507,Amil Natal,ChIJAUAgQg0AswcRYCQwL-9xxPM,-5.78604,-35.203691,hospital
+508,AMI Vacinas,ChIJf6j0FHn_sgcRaBgPVJaJ80E,-5.8440051,-35.2084078,hospital
+509,Hospital Municipal de Natal,ChIJyzEZbmkAswcRjKTmBPE7snM,-5.7827523,-35.19674320000001,hospital
+510,Hospital Gastroprocto,ChIJUYhg-RMAswcR24jv99UjgzU,-5.792120999999999,-35.199479,hospital
+511,Clínica Hemo-Onco,ChIJm5RX-hMAswcRTVnqvA02LOY,-5.785898599999999,-35.19634959999999,hospital
+512,Varela Santiago Children's Hospital,ChIJ6yeIpwwAswcR5THQuYDlF1g,-5.7850755,-35.203813,hospital
+513,MEGA HOSPITALAR LTDA.,ChIJyS5IHe__sgcRvBic5YKRsGQ,-5.82537,-35.204383,hospital
+514,Hospital da Aeronáutica de Natal,ChIJreBrReH_sgcR2VPuu3iMYh4,-5.8043285,-35.2088431,hospital
+515,Centro de Nefrologia de Natal,ChIJGbnmtnJVsgcROrxACcqR1ao,-5.828045499999999,-35.2352166,hospital
+516,Leide Morais Woman's and Lying-In Hospital,ChIJl7Qrv7OrswcRcaJGVKuc3RA,-5.7542181,-35.2627792,hospital
+517,Hospital Pediátrico Maria Alice Fernandes,ChIJ-9Wizp-rswcR03U0yeejPe0,-5.763649500000001,-35.2826097,hospital
+518,TOMOCENTRO SÃO LUCAS,ChIJqahqPxEAswcR7wSE5422c2I,-5.793672600000001,-35.1998776,hospital
+519,Consultório de Osteopatia e Fisioterapia - Dr. Roberto Campos,ChIJoYMI9m__sgcRkgJqvHAiwkI,-5.8504242,-35.2038774,hospital
+520,NatalMed - Centro Médico e Odontológico,ChIJbYe0G0BVsgcRfH8Od19TtZ8,-5.8311411,-35.2068053,hospital
+521,Eletro Hospitalar,ChIJn9TnSxcAswcRwdd_GDrf7hI,-5.796244700000001,-35.1980693,hospital
+522,Distrito Sanitário Leste,ChIJvf4VEXAAswcRSgCyXsgMkjE,-5.780339099999998,-35.2046927,hospital
+523,Maternidade Mun. de F. Camarão,ChIJJYA4SAVVsgcR-CFE_GbS37g,-5.8238918,-35.25423800000001,hospital
+524,Unidade Basica De Saude,ChIJFYF3AaasswcRLY_3Eptyrow,-5.789102600000001,-35.30791249999999,hospital
+525,Centro de Atenção Psicossocial Infanto Juvenil,ChIJ6ZWohz5VsgcRYaAAxlJE41Q,-5.818133,-35.2417873,hospital
+526,Distrito Sanitário Oeste,ChIJr9YKtT9VsgcRx6LwYUtq32o,-5.8194439,-35.2394092,hospital
+527,Clínica Potiguar,ChIJqxeN3wWrswcR_ZnpWHdbBtI,-5.770020299999999,-35.2683155,hospital
+528,NATALMED,ChIJFUx-A0BVsgcRDyi0Fp3Riu0,-5.82057,-35.2362978,hospital
+529,Globo Drugstores,ChIJqXdf9xEAswcRh-tAXIYiQbQ,-5.793184799999999,-35.203688,pharmacy
+530,Farmácias Pague Menos,ChIJxQc432gAswcRmN8C9fXyaKo,-5.783101,-35.19969870000001,pharmacy
+531,Drogarias Globo,ChIJ1XMv0xYAswcRZ_x5Aj93iQI,-5.811254099999999,-35.206223,pharmacy
+532,Ao Pharmacêutico,ChIJo5kwqmNVsgcREaDFM8YVPqA,-5.828804,-35.2180036,pharmacy
+533,Companhia da Fórmula,ChIJQzEnZPf_sgcRHa_xmdi03Ts,-5.820734499999999,-35.2134844,pharmacy
+534,Drogaria Paiva,ChIJ-ceeJWJVsgcRHZTZF0z-CzQ,-5.836447999999999,-35.219514,pharmacy
+535,Formule Farmácia,ChIJX_ZW__b_sgcRa6V9YjkGY-A,-5.8167263,-35.2104691,pharmacy
+536,Drogaria Paiva,ChIJ1z5kOBEAswcRbwEMMzis3xg,-5.793525000000001,-35.199493,pharmacy
+537,Farmácias Pague Menos,ChIJpVQCNbL4sgcR5_juAPDBb_Q,-5.876742900000001,-35.2021781,pharmacy
+538,Farmácias Pague Menos,ChIJHwMJhIv_sgcRjO2P_9iXG90,-5.814763399999999,-35.206044,pharmacy
+539,Farmácia Popular do Brasil Alecrim,ChIJWZ9vmKeqswcRLAU0ZdifXeM,-5.794029399999999,-35.21601620000001,pharmacy
+540,Dermage,ChIJG4VBZBoAswcRwRtPkWLQHXg,-5.784792800000001,-35.19620179999999,pharmacy
+541,Drogaria Paiva - Zona Norte,ChIJXW3JNFSqswcRrwCJFBxiRzo,-5.764326,-35.254337,pharmacy
+542,Espaço Pharma,ChIJ_xMhJBsAswcRFBBudvyIwXg,-5.798957999999999,-35.2029204,pharmacy
+543,Companhia da Fórmula Alecrim,ChIJR8z3vKeqswcRo2jAg8Qumfg,-5.794362,-35.21640419999999,pharmacy
+544,NateDiet,ChIJGUW4RhEAswcRzWy--EHSQ5o,-5.793870999999999,-35.19920599999999,pharmacy
+545,Drogaria Paiva – Alecrim,ChIJA_5K-lJVsgcRKbwPKWxoBLA,-5.805843,-35.223709,pharmacy
+546,Drogarias Bezerra,ChIJS-E4InMAswcR61eEiB7Y9ik,-5.7865156,-35.2074561,pharmacy
+547,Drogaria Prudente,ChIJe_ucXfn_sgcRjicjaMsWAMI,-5.8165327,-35.2119755,pharmacy
+548,Drugstore Paiva - Lagoa Nova,ChIJrfuvHF5VsgcRa1asXB7zIvY,-5.8218386,-35.21967239999999,pharmacy
+549,UniFarma,ChIJg6wbZEyqswcR5jYVJebcTE4,-5.754031599999999,-35.25569079999999,pharmacy
+550,Farmaformula,ChIJefrelvn_sgcRRQkeQLBmPOg,-5.818680999999999,-35.21276599999999,pharmacy
+551,Drogaria Santa Fé,ChIJ7fBhOvj_sgcRuMGPW0n2Ptg,-5.7857908,-35.1952995,pharmacy
+552,Companhia da Fórmula Ponta Negra CCAB Sul,ChIJm35mNC7_sgcRpzDT9vfcr8E,-5.8509796,-35.2040489,pharmacy
+553,Elementus Farmacia de Manipulacao,ChIJQaIEOhMAswcR_GitNca5g3o,-5.802805200000001,-35.2049676,pharmacy
+554,Pharmapele,ChIJIVEyOn__sgcRpkEAZTXpF-Q,-5.850502,-35.2098409,pharmacy
+555,Drogaria Amadeus,ChIJf_zi2W1XsgcRW2E7lj7TV1U,-5.926842100000001,-35.27211879999999,pharmacy
+556,Farmafórmula Petrópolis,ChIJg5fW9hwAswcRsCnHSjlD8P4,-5.7882667,-35.1962446,pharmacy
+557,Drogaria Santa Fé,ChIJJyYNs0uqswcRjg6VxAhroU8,-5.750210000000001,-35.2538404,pharmacy
+558,Farmafórmula Parnamirim Centro,ChIJVQcASApXsgcRjH7EOrGR-TU,-5.915559699999999,-35.25963639999999,pharmacy
+559,Drogaria Nobre,ChIJxVk0VAVVsgcRxFwHrta9sYw,-5.828875600000001,-35.2483239,pharmacy
+560,Regional Pharmacy Council - RN,ChIJmfn4gnMAswcRg-imJ8DzNm8,-5.7853774,-35.209554,pharmacy
+561,drogaria saude,ChIJYQYiqepVsgcRD5KADEAwVeU,-5.858011,-35.237603,pharmacy
+562,Companhia da Fórmula Petrópolis,ChIJTbNMrXMAswcRfrQWvVTudeM,-5.782027299999999,-35.20239730000001,pharmacy
+563,Farmácia Solui,ChIJ16qVyBMAswcR28lqelRJFC0,-5.791413,-35.20079430000001,pharmacy
+564,Drogarias Globo,ChIJYyB-f2X_sgcR_Lq_P7q4h8U,-5.852561499999999,-35.2033204,pharmacy
+565,Drogaria Amadeus,ChIJ49Ygb_L_sgcRZWXB_7ODkcQ,-5.817246700000001,-35.2005042,pharmacy
+566,Drogaria Assistência (Drogaria Paulistana LTDA.),ChIJ6dv_UKmrswcRd4pnhrOdizU,-5.761744500000001,-35.2648129,pharmacy
+567,Companhia da Fórmula Partage Norte Shopping,ChIJgbc41kSqswcR12h8sQ4-t0A,-5.758162,-35.247309,pharmacy
+568,Homeoformula,ChIJVQcASApXsgcRtlw-KnnLgR0,-5.915585099999999,-35.2595473,pharmacy
+569,Farmacotécnica - Farmácia de Manipulação,ChIJb2ko_20AswcRj7Ix0doDvgU,-5.7838916,-35.2035124,pharmacy
+570,Farmácia Tancredo Neves,ChIJQ4YEjEhVsgcRHdmNHOBKgck,-5.8112892,-35.2338694,pharmacy
+571,Farmanossa,ChIJ5fb2pERVsgcRBiEOZ5dX7yk,-5.813823200000001,-35.23509550000001,pharmacy
+572,Drogaria Santa Fé,ChIJP7e0rB1VsgcRtG6SM_7Ne98,-5.8258533,-35.2561166,pharmacy
+573,Farmaciaria,ChIJhyk3xhxVsgcRv7j_xz8A66s,-5.8277715,-35.25489439999999,pharmacy
+574,Farmaciaria,ChIJAwF_xRxVsgcRhbFGRVbm2D0,-5.827715999999998,-35.25489419999999,pharmacy
+575,Drogaria Santa Fé,ChIJ9QSY-A9VsgcRiLJx307U-AA,-5.8288562,-35.24799700000001,pharmacy
+576,Unifarma,ChIJdYamZxKrswcRAAc6cD-K7Vk,-5.7747999,-35.27749110000001,pharmacy
+577,UniFarma,ChIJA9ZX7nKrswcRthDouXXO2HM,-5.771900199999999,-35.28264989999999,pharmacy
+578,Unifarma,ChIJGTIxUhRVsgcRpEhF24y0rzU,-5.8230032,-35.2401156,pharmacy
+579,UNIFARMA,ChIJVbjzcLRVsgcR0nXMQIx9fTs,-5.8508149,-35.2552624,pharmacy
+580,Farmácia do Trabalhador do Amarante,ChIJ49Tx2xKrswcR8Skg6Pi8vvI,-5.769702,-35.283055,pharmacy
+581,Companhia da Fórmula Cidade da Esperança,ChIJEbr-yRRVsgcRk3Kuy27Pasw,-5.824066900000001,-35.2371736,pharmacy
+582,Companhia da Fórmula Cidade da Esperança,ChIJOw-VkhJVsgcRlFvbkZojaLU,-5.824066900000001,-35.2371736,pharmacy
+583,Drogaria Paiva,ChIJXZXG7MqqswcRcAfWyrOF744,-5.801546999999999,-35.2382703,pharmacy
+584,Farmafórmula,ChIJ7z5BogOrswcRg0lKgORCiO8,-5.772199999999999,-35.262802,pharmacy
+585,Farmácias Pague Menos,ChIJz5CotwqrswcRgIKIgbCk6wg,-5.7719949,-35.2629112,pharmacy
+586,Farmácia do Bairro - Rede Unifarma,ChIJgczHJP2qswcRyj1c8S7wqSA,-5.7744773,-35.25668989999999,pharmacy
+587,Farmácia Tancredo Neves,ChIJ27eKi0hVsgcRxQAs57oTqG4,-5.8112639,-35.23373839999999,pharmacy
+588,Farmafórmula,ChIJP7zIGPyqswcR9155BS-_2Co,-5.771271,-35.25457430000001,pharmacy
+589,Hospital Amigo Bicho,ChIJF2gOgZL_sgcR51aKtjXCKu8,-5.8167447,-35.2004064,pet_store
+590,Pura Vida Animal,ChIJ2ZXOxdL4sgcR99dRlKKnU2U,-5.878397899999999,-35.180132,pet_store
+591,Cão & Cia,ChIJg8V-JQcAswcRxJtcA5lY-vM,-5.800212500000001,-35.2126156,pet_store
+592,SOS. Animals - Veterinary Clinic 24 Hours,ChIJy2dwiff_sgcRwzAee5NcNic,-5.814684999999999,-35.21351000000001,pet_store
+593,Bom Companheiro Rações,ChIJi9c3hK6qswcRrHu7DRiklMM,-5.7976139,-35.2204431,pet_store
+594,Bicho Fashion,ChIJ4dFcjGpVsgcRIn-tHtwv1Cg,-5.8214706,-35.234374,pet_store
+595,Pet treat Veterinary Clinic,ChIJwW8Rfov_sgcR7Zj4YDvVbbw,-5.8291971,-35.21062910000001,pet_store
+596,Planeta Animal,ChIJzVHh2Db_sgcRg6gAO1CDiVE,-5.872424,-35.189495,pet_store
+597,RN Pet,ChIJWdLErYz_sgcRslUqkJf4caE,-5.822325699999999,-35.2083774,pet_store
+598,Maxi Veterinária,ChIJcQ1RobH4sgcRTse6Lh6GJhY,-5.882230000000001,-35.20135200000001,pet_store
+599,RN Pet,ChIJiVfXPHxVsgcR50CXxKgXyHs,-5.834708399999999,-35.2188219,pet_store
+600,Primeirão Rações,ChIJ04X9TTmqswcRbZqbGl6mtn8,-5.7459625,-35.2426346,pet_store
+601,Animale,ChIJSRgb42oAswcRBhfVsmG5J90,-5.786556099999999,-35.19578300000001,pet_store
+602,Pet Nordeste Distribuidora,ChIJ0VS-a7erswcRu4Mp2nIYteM,-5.7314158,-35.2472241,pet_store
+603,Royal Rações,ChIJ2aXAszP_sgcRXyzZlAFCJ2I,-5.874647,-35.184831,pet_store
+604,Real Rações,ChIJZwP39hpXsgcRnRlN_oHtiU0,-5.914626000000001,-35.27192700000001,pet_store
+605,The Pet Shop Veterinary Clinic,ChIJJw0hJZH4sgcRLWdlhMVqXro,-5.8993134,-35.200502,pet_store
+606,Água Viva Pet Distribuidora,ChIJ5xbIdqmrswcRjWEsnDa3oHM,-5.7631535,-35.2651155,pet_store
+607,Mano Pet,ChIJ016Q8iOrswcRatFWcakc9D8,-5.7945556,-35.243807,pet_store
+608,AquaPet,ChIJkayBb8xVsgcR__mS43CLEJs,-5.859922399999999,-35.25535920000001,pet_store
+609,Rastapé House of Forro,ChIJdTIeWNH4sgcRCuNhFT5nl6U,-5.881315,-35.176008,night_club
+610,Forró com Turista,ChIJQYWbMoFVsgcRPIS1rSg3X6E,-5.779361999999999,-35.1971199,night_club
+611,Seven Pub,ChIJe71H3WsAswcR0ZwZDMixESg,-5.7849729,-35.195578,night_club
+612,Fave,ChIJgwAA4HIAswcRG5doer3w7T8,-5.7846272,-35.2061151,night_club
+613,Marcia Cris Espaço da Beleza,ChIJgxeG_FpVsgcRRPWbJXTGT1k,-5.8511828,-35.253354,night_club
+614,GESIANE PACCELI - Espaço Estética,ChIJ3Wj0wLxVsgcRSmfNOkZa7b0,-5.847988999999999,-35.240845,night_club
+615,Barber Shop BelezaVip,ChIJMUWUYqGrswcRyZ2b35bZPsk,-5.760594999999999,-35.277231,night_club
+616,Depile-se / Showbrancelhas,ChIJq2DMK-P_sgcRFdv2m8IMlQU,-5.8371914,-35.21973990000001,night_club
+617,Paula Costa - Estética e Esmaltaria,ChIJy5rqknpWsgcRe8bt3cY6UvA,-5.8796175,-35.2511995,night_club
+618,Caroline Costa Embelezamento do Olhar,ChIJO_6FxdJTsgcRl2WHqE5Qpd8,-5.8586522,-35.3459179,night_club
+619,Unhas De Luxo,ChIJT_z57pH_sgcROMaCcRhJl9k,-5.828148500000001,-35.20293180000001,night_club
+620,Salao Do Edilson,ChIJ49k6EtarswcRhQrffXmSH7s,-5.731381,-35.26509410000001,night_club
+621,Forró Pot,ChIJlcBaPR74sgcRNJPs7_B3MI0,-5.9469925,-35.1969472,night_club
+622,Forró da Lua,ChIJgfxLfm8AswcRFQpoGkwX_ME,-6.021699799999999,-35.2393177,night_club
+623,Estrada Do Mister Fênix,ChIJsdNPrlyrswcREMz097P_7h4,-5.7855,-35.2922249,night_club
+624,Fernandacabeloshai,ChIJvxpfBxSrswcRR7vZ60jZH4o,-5.7783029,-35.2756868,night_club
+625,Barbearia Welson BarberShop,ChIJIflm9UtUsgcR8BGIfLH6R54,-5.8498934,-35.2630137,night_club
+626,Recepção Piui Piui,ChIJpQFTy3OrswcRF7bu14zzXSo,-5.7709959,-35.2851919,night_club
+627,sisters studio,ChIJh6C2DTurswcRXoGgEIaBr0g,-5.7721555,-35.2747939,night_club
+628,Granja Sagrada Família,ChIJbbFSjnWtswcR5Qy6ASI2qVE,-5.7829866,-35.3190245,night_club
+629,Milena Makeup,ChIJHRpODeJVsgcRO0KhKDTyaOI,-5.837974900000001,-35.2423888,night_club
+630,Ane Cabelos e Estética,ChIJIyuWPFtVsgcR11Ume74LS04,-5.823158599999999,-35.23695349999999,night_club
+631,Grandma's house,ChIJeRKgP8qqswcRZBBQn6oGe6s,-5.7997954,-35.2384956,night_club
+632,Estudio De Mc Eldinho,ChIJLQdUDrZVsgcR-ZBSGNnGY70,-5.854316499999999,-35.2527682,night_club
+633,Espaço Suenny Cruz.,ChIJka_dpqCrswcRPgOifRHu8oY,-5.764858100000001,-35.2762235,night_club
+634,Aplausos Casa Show,ChIJB2-GP_yqswcRKDumglC-5sk,-5.7720764,-35.2549767,night_club
+635,Cantinho Do Segredo,ChIJC0YAYwerswcRLDpukofTf4Q,-5.765873,-35.266184,night_club
+636,Embelezaria,ChIJ4wgbiqKrswcR1gHxBtF6Vfg,-5.761288,-35.276025,night_club
+637,Forró Dago,ChIJ9XQkM0xVsgcRVQsF6GhdaJA,-5.807432299999999,-35.2286323,night_club
+638,Espaço Estética,ChIJ_6xoNVOqswcRn8wdLi_hD2I,-5.7607073,-35.2586898,night_club
+639,Vila do Vaqueiro,ChIJeZBTA3ysswcRhCJXNGfcU20,-5.7588653,-35.30853009999999,night_club
+640,Motel Oásis,ChIJUTQgK61WsgcR53V9hhsK7aY,-5.8758979,-35.30264140000001,night_club
+641,Eunapius Termas Club,ChIJrSp_a0xVsgcRRlGtElBsU3U,-5.82121,-35.222262,night_club
+642,Imperius Bar,ChIJ3Vr_WdarswcRnolV87ZW1ME,-5.758234400000001,-35.2598048,night_club
+643,Centro Da Beleza,ChIJeQzaQlNVsgcRGs-lDWyIXfY,-5.8052369,-35.221073,night_club
+644,Alvoroço's House,ChIJH5_unK-qswcRN4cwhE7Jmpc,-5.7956297,-35.2221663,night_club
+645,Clínica Life Prime Natal,ChIJKT9LGjlVsgcRF_TFhsVJIMA,-5.8222897,-35.2181845,night_club
+646,Salão Sempre Bela,ChIJoxeFuberswcRVQ_gspiCPIE,-5.7493131,-35.2678572,night_club
+647,Gilson Buffet Arena Das Dunas,ChIJaeyXjWFVsgcRk-cRuk4retM,-5.8261886,-35.2164391,night_club
+648,Eventos Fields,ChIJm6yCX19VsgcR6Uii_rVCkjI,-5.818913999999999,-35.2148894,night_club
+649,Cinemark Midway Mall Natal,ChIJcb6iVfr_sgcRQmkr-7UgfPo,-5.8112867,-35.2062242,movie_theater
+650,EV PRODUÇÕES,ChIJoxVuRxoAswcRJszAgx7A6eg,-5.7994769,-35.20052829999999,movie_theater
+651,Cinépolis,ChIJ_aPcREWqswcRba8jqZRak4U,-5.757236400000001,-35.2472372,movie_theater
+652,Cinépolis,ChIJIb5MF3__sgcRBxYg1eGk3AI,-5.842151400000001,-35.2112202,movie_theater
+653,Cine França,ChIJNXF4pXMAswcR5bptHJnqPGg,-5.784853599999999,-35.2073498,movie_theater
+654,ebs entretenimento,ChIJK_a8f4C6swcRqSmve0HSfFo,-5.646197099999999,-35.43424640000001,movie_theater
+655,Cinepolis,ChIJu5y2UUWqswcRDeNp3KCGm5c,-5.757954199999999,-35.2471535,movie_theater
+656,Salha de Cinema,ChIJy7mxYfT_sgcRapP4WOkfvtA,-5.820367999999999,-35.2105245,movie_theater
+657,Cine França 2,ChIJ42gsC3MAswcRU9YZzPmY1UU,-5.7855575,-35.2080313,movie_theater
+658,Meia Noite Filmes,ChIJrX2twOwBswcRqQeFLh1HNQk,-5.7986781,-35.2024695,movie_theater
+659,Cine Cultlural - Parnamirim,ChIJrdN4VwhXsgcRlbZKCs_3D4U,-5.9180131,-35.26136210000001,movie_theater
+660,Moviecom,ChIJXTxqBT__sgcR-OiXFF1H_Po,-5.866312199999999,-35.1855015,movie_theater
+661,ebs entretenimento Cear´-Mirim/RN,ChIJb6AJf4C6swcR4liFdzmCjb8,-5.6461991,-35.43424749999999,movie_theater
+662,CEI,ChIJr7K_oPb_sgcRTZU5Hj2Macg,-5.816240199999999,-35.2098841,school
+663,Instituto Maria Auxiliadora,ChIJ_f_c8xwAswcRfVOEYrYsp_8,-5.7886456,-35.1960477,school
+664,NEC pinguinho de gente,ChIJr1lHkwgAswcRI14E2MiEzbA,-5.794972899999999,-35.2110394,school
+665,IFRN,ChIJkVGx1-T_sgcRXniKuV3XVVw,-5.8118643,-35.2044882,school
+666,Academia Nadarte,ChIJJ4attvH_sgcRKzsHPpvU9iA,-5.8187392,-35.2064219,school
+667,Parrachos Turismo,ChIJrb7weXacswcRUbUKUyU9-Vg,-5.875766099999999,-35.1766015,school
+668,LFG,ChIJkyy_r_D_sgcRsDnJPUrIaN4,-5.8145207,-35.2096971,school
+669,IAP cursps,ChIJSTWpnYz_sgcRBK7yJXjppLU,-5.8193965,-35.2072973,school
+670,Escola Municipal Professora Eva Lúcia Bezerra de Mendonça,ChIJraqqqvdWsgcRCoiKTqiWxtc,-5.89657,-35.26135799999999,school
+671,Colégio Marista Natal,ChIJCUS7eBIAswcR7lCFxGE9aQU,-5.790122800000001,-35.20468839999999,school
+672,CEI Mirassol,ChIJGcHxLYL_sgcRqZ-WLCW9-_c,-5.839548399999998,-35.2080139,school
+673,Facex College - Early Childhood Education,ChIJZeZwB2X_sgcRRsD8raJy1Tg,-5.851095000000001,-35.208644,school
+674,Iap Cursos,ChIJv65TrYz_sgcRz0KOhi_Z31c,-5.819420699999999,-35.2072852,school
+675,Escola Fundação Bradesco - Ens. Fund. e Médio,ChIJVx2nAR1VsgcRxZhMiJc-V8Y,-5.8271564,-35.2550948,school
+676,Colégio Salesiano Dom Bosco,ChIJJcHqTXAAswcRWHrSNmMAWpo,-5.893384800000001,-35.1990067,school
+677,Over and College Course - Unit 01,ChIJQz5iY_H_sgcRFJTKicJUikc,-5.8190019,-35.2056538,school
+678,Contemporary Educational Complex,ChIJUwQte47_sgcRjiRwwoQsFtE,-5.8278317,-35.2058905,school
+679,Over Colégio e Curso - Unidade 02,ChIJVVVVffX_sgcRFR7Y1bhnsKo,-5.821634599999999,-35.2149412,school
+680,Complexo de Ensino EDHC (Escola Doméstica e Henrique Castriciano),ChIJ7du5gRsAswcR9B3cGTCzPG8,-5.7929754,-35.1959378,school
+681,Contemporary Educational Complex Green City,ChIJiYaGY774sgcRnZ3-VG4SKHs,-5.892428199999999,-35.1974837,school
+682,Educational Center Maristella,ChIJ1UyzOgQAswcR_yXqC8eSFKY,-5.8024757,-35.2088059,school
+683,IFRN Campus Natal-Zona Norte,ChIJyy-LBLWrswcRQtWm2l5sT-8,-5.749099900000001,-35.2604103,school
+684,E.E. Professor Anísio Teixeira,ChIJmVQAZmwAswcRECB3Z40VZMA,-5.785136799999999,-35.2005299,school
+685,Instituto Reis Magos,ChIJR-zpZggAswcRAA4iO4Hw3K8,-5.795102,-35.21253299999999,school
+686,School Colored Pencil,ChIJ04RoS19VsgcRjjIM8VHH48w,-5.817738399999999,-35.2163141,school
+687,Escola Municipal Joaquim Honorio,ChIJIR2K96uqswcRHeRfr0F0-fE,-5.8041266,-35.22365989999999,school
+688,Arte de Crescer,ChIJ79fEdGn_sgcRnG5wdGtCLKk,-5.856445,-35.199763,school
+689,College Applied Sciences,ChIJLYE5O-P_sgcRuhZC4y8v_bw,-5.8085835,-35.2022499,school
+690,COLÉGIO PIAGET,ChIJB0V7bfxVsgcRvVdefnZhw9g,-5.8710857,-35.22153430000001,school
+691,Unifacex - Campus Imaculada Conceição (CIC),ChIJ_y4Icg0AswcRSYpIv4R9SOE,-5.785936999999999,-35.203962,school
+692,Curso Mauhel,ChIJ4ej7noz_sgcRpmeSmCoicsM,-5.818593,-35.20699400000001,school
+693,Impacto Colégio e Curso,ChIJg3XTLm1VsgcRhJWqGGisvHw,-5.827850600000001,-35.2364687,school
+694,CDF Colégio e Curso,ChIJYelljYv_sgcRUKCCkCoffJo,-5.8399414,-35.2088196,school
+695,Impacto Colégio e Curso,ChIJZXkgVF5VsgcRn2MRFmT52MQ,-5.8238497,-35.2192548,school
+696,Casa do Menor Trabalhador,ChIJQzxb9KqqswcRAXVF0IN8__U,-5.805747899999999,-35.2147052,school
+697,Creche e Escola Bambini,ChIJw8FW90L_sgcR0BPXXa1zLfw,-5.858598099999998,-35.20003030000001,school
+698,Expansive College and Course,ChIJxT9F5g6qswcR_S5UQlh06BM,-5.746637,-35.226417,school
+699,Hippocrates South Zone,ChIJh3Rosn3_sgcRec46cp_NOYU,-5.8461435,-35.2130159,school
+700,Over and College Course - Unit 03,ChIJZ6t7R7D4sgcRtGp2YMZRFgM,-5.8791151,-35.2073326,school
+701,Centro Educacional Maanaim,ChIJt1RVVcFVsgcRwgvuV7G8CLw,-5.8467494,-35.243155,school
+702,State School President Roosevelt,ChIJQ0D-UhpXsgcR_yi1kfAc_rI,-5.9195688,-35.2605939,school
+703,Hipocrates Center,ChIJ80lp6RIAswcR6JGjPN9cXYA,-5.7888983,-35.2026149,school
+704,Mundial Colégio e Curso,ChIJP9LrkKmrswcRecqv5rJqG8A,-5.766256299999999,-35.2606844,school
+705,Colegio de Nossa Sra de Fatima,ChIJmbpE2hMAswcRZrOORdKyl3k,-5.788913700000001,-35.1992011,school
+706,YÁZIGI,ChIJKczFNvr_sgcRvB3MKOj8sUM,-5.8230931,-35.2123441,school
+707,Esc. Mun. Osmundo Faria,ChIJ85SpURtXsgcRu778qpaBaA8,-5.9093149,-35.2751396,school
+708,CAIC - Integrated Center for Children,ChIJCWtYN2dVsgcRBVCoYqvsVNE,-5.8231285,-35.22257099999999,school
+709,Colégio Fênix,ChIJkx0ynhL4sgcRDecumyyqSTQ,-5.9271832,-35.2696103,school
+710,Microlins,ChIJk05YqVr_sgcRixDkCUBxBoU,-5.850427,-35.20638700000001,school
+711,GAUSS ISOLADO DE CIÊNCIAS DA NATUREZA,ChIJnx_HSAhXsgcRVa2JEMwuPl4,-5.9185065,-35.2607487,school
+712,Instituto Sagrada Família,ChIJUT7bI6mqswcREe-6wPGh2q4,-5.797765699999999,-35.2181913,school
+713,Colégio Ação,ChIJgYs3cFH_sgcR1o459PMIkBg,-5.870923800000001,-35.20728859999999,school
+714,Educational Center PH3,ChIJ05Qm0BFXsgcRVZFHz3wyzkA,-5.918706999999999,-35.27045399999999,school
+715,Colégio Master,ChIJqZ3VkJP4sgcRZYsiwjiITq0,-5.8570891,-35.2055928,school
+716,Escola Estadual Walfredo Gurgel,ChIJBU_rCX9VsgcRM37XGLsGLvg,-5.838743099999999,-35.2178116,school
+717,Colégio Gênesis,ChIJ3a7FSAhXsgcRwhdpLJni7F8,-5.9211609,-35.2619844,school
+718,Brazil Institute - Unit I,ChIJ8dok3-NVsgcRw-2lWV3Lurk,-5.8716094,-35.2316049,school
+719,CEN-Colégio Evolução de Natal,ChIJ64k3SFKqswcRcr32gsMcmCo,-5.758172099999999,-35.2537543,school
+720,Escola Municipal Irmã Arcângela,ChIJTb21JQKrswcRPUWHfpERIRQ,-5.770441699999999,-35.2608574,school
+721,EE Berilo Wanderley,ChIJXQvwqlH_sgcRONWwAul9duk,-5.869280799999999,-35.2066487,school
+722,Midway Mall,ChIJcb6iVfr_sgcRfOD4-UdQ8es,-5.8121037,-35.2061951,shopping_mall
+723,Partage Norte Shopping Natal,ChIJHVwXhESqswcRMbEfN9HNUHw,-5.7581338,-35.2467754,shopping_mall
+724,Mãos de Arte,ChIJO-6RGmgAswcRF1vywW4IoU8,-5.783128599999998,-35.19236319999999,shopping_mall
+725,Via Direta Shopping,ChIJYelljYv_sgcR4cy4I9xeAA4,-5.8404573,-35.2094647,shopping_mall
+726,Dunnas Shopping,ChIJD4H2Cj__sgcRis5OwFPauSU,-5.8635221,-35.1893963,shopping_mall
+727,Shopping Estação,ChIJy-q_vVqqswcRkBX_OUg4KLM,-5.759947599999999,-35.2470169,shopping_mall
+728,Shopping Seaway,ChIJO8UYDz__sgcRkBjTd57_Paw,-5.8600328,-35.1942028,shopping_mall
+729,milla costa acessórios,ChIJKd-pWiz_sgcRAs8eXJI29ZY,-5.866753099999999,-35.1858116,shopping_mall
+730,PlanoTopografia,ChIJmedYVvr_sgcRN8CftxSL7u4,-5.812430399999999,-35.2067541,shopping_mall
+731,BR Mall,ChIJ67RtRAZXsgcR1GSjdGjvRy8,-5.914477899999999,-35.2628524,shopping_mall
+732,Athletic Way-Natal Shopping,ChIJEzHZqf7_sgcRsqxt8Ifp6-4,-5.815025899999998,-35.2112696,shopping_mall
+733,Sol Bijoux,ChIJ1y0XTTn_sgcRTmtX_J41-Rs,-5.8621606,-35.1907343,shopping_mall
+734,Protour - Locação de Galpões,ChIJnTyN49qsswcRzZstdT_VpxM,-5.7851895,-35.3374564,shopping_mall
+735,Santa Tereza Outlet,ChIJ22DZ70BVsgcRMmcrAssUWV8,-5.823560500000001,-35.219774,shopping_mall
+736,Difiorella Semijóias,ChIJR-AXgGBVsgcR1M3HLUT5H1w,-5.8222017,-35.21770869999999,shopping_mall
+737,Loucas Por Esmaltes,ChIJVQ8TgGBVsgcR4OC-4mWWXF0,-5.8222307,-35.21765079999999,shopping_mall
+738,Shopping 10 Natal,ChIJjReilKiqswcRY6lnQSSj42s,-5.796674500000001,-35.2186393,shopping_mall
+739,LOVE GIFTS NATAL,ChIJ2WaqxvX_sgcRUxbBunyqGUE,-5.818838,-35.21309359999999,shopping_mall
+740,Portugal Center,ChIJlf0YmPP_sgcRmD3hhfDl3LM,-5.820056,-35.20817779999999,shopping_mall
+741,Dão Silveira Mall,ChIJr8XGw_3_sgcRBayF-x2Rmu8,-5.8062548,-35.2084222,shopping_mall
+742,Carrefour Hipermercado,ChIJhyNH-E-qswcRXs0R9Q_MV5Y,-5.757529999999999,-35.247805,supermarket
+743,Nordestão Lagoa Nova,ChIJq43fVvD_sgcRvfurpxjAgZ8,-5.8157081,-35.2067184,supermarket
+744,Rede Mais Veneza Supermarket,ChIJ77Kciuv_sgcRyhXdfMqs6Q0,-5.8246009,-35.2001261,supermarket
+745,Favorito Supermercados,ChIJDaK35bL4sgcRwEn9Dk0Bp-Y,-5.878079299999999,-35.20118240000001,supermarket
+746,Nordestão Supermarket,ChIJB3wgF2ZWsgcRLiH7uzKFG58,-5.8869255,-35.2103049,supermarket
+747,RedeMAIS Comprebem,ChIJ_6fDt2pVsgcR0-_nInfTOgY,-5.821847099999999,-35.2362006,supermarket
+748,Rede Mais Pajuçara,ChIJp8z74oepswcR0IdLWPYdXIg,-5.7307592,-35.248641,supermarket
+749,Super Show,ChIJk-lM_-VVsgcRPvUejO6q5m8,-5.8969685,-35.196231,supermarket
+750,Favorito Supermercados,ChIJweUOq7urswcRj96Lir8CMaU,-5.754846199999999,-35.2727929,supermarket
+751,Favorito Supermercados,ChIJwfAb1mv_sgcR1Ueuuib6iSE,-5.856270400000001,-35.1987361,supermarket
+752,Super Show Supermarkets - Maia,ChIJBdfrRWb_sgcRja1WN0Jmdug,-5.854635200000001,-35.20846230000001,supermarket
+753,Supermercado Pai e filho,ChIJAQAAAP1WsgcReZOzMp69Zk0,-5.9047945,-35.2670254,supermarket
+754,Supermercado Bom Dia,ChIJf637SDWqswcRtkywFobuQX4,-5.7492267,-35.2566771,supermarket
+755,Supermercado Rede Mais,ChIJl-807gtXsgcRDvskwzmPeYs,-5.914727500000001,-35.2608392,supermarket
+756,Nordestão Petrópolis,ChIJ4d98f2wAswcRGKmgxnQkbh0,-5.7842828,-35.202786,supermarket
+757,Comercial Opção Ltda,ChIJpYQpGKirswcRKin0MbLtxBE,-5.764556499999999,-35.27003539999999,supermarket
+758,Supermercado Rede Mais Serve Bem,ChIJbeFPMhNVsgcRAnev_sFWJIw,-5.826739600000001,-35.2378391,supermarket
+759,Supercop,ChIJbRi2QUlVsgcRAbedlqQo9uM,-5.8100891,-35.2293254,supermarket
+760,SuperCop supermercado,ChIJswF_pERVsgcRTyHb3oEuTHw,-5.813731799999999,-35.2349822,supermarket
+761,Supermercado Avelino,ChIJH88gZkiqswcRbQU3edNaEVo,-5.750923600000001,-35.24897320000001,supermarket
+762,Makro - Loja Natal,ChIJCwooSF__sgcRP8_RfncUDCs,-5.8627669,-35.2125205,supermarket
+763,Mercado Pratico Comércio,ChIJs4-s8I3_sgcRSd503G_sjU8,-5.826746600000001,-35.2048164,supermarket
+764,Supermarket Super Show Gomes,ChIJN98B6xtVsgcRgB15ewoTcHs,-5.8251107,-35.2521029,supermarket
+765,Supermercado RedeMAIS Serve Bem - Cidade da Esperança,ChIJeZsnOhNVsgcR1Vo1N01bDOo,-5.826774400000001,-35.2378117,supermarket
+766,Supermercado RedeMAIS Planalto,ChIJ05HqaLZVsgcR630J1qeqXyk,-5.8534828,-35.2521849,supermarket
+767,Squeak - Network More Supermarkets,ChIJ79u_yEdVsgcRTU7HYzEHLxU,-5.813018200000001,-35.2346821,supermarket
+768,Super Show Supermarkets,ChIJC9blQbaqswcR7MAcjggJKJM,-5.7968319,-35.2290468,supermarket
+769,CECAFES - Central de Comercialização da Agricultura Familiar e Economia Solidária,ChIJbyMLuWZVsgcRJEdBnUGcNS4,-5.824969,-35.2220049,supermarket
+770,Nordestão Santa Catarina,ChIJr96mnVqqswcRCmHXT2zuEgo,-5.760904399999999,-35.2523856,supermarket
+771,Magazine Sarmento,ChIJOZQd-KqqswcR4HkxXHHVzWs,-5.8022995,-35.2167401,supermarket
+772,Atacadinho Supermercado,ChIJIYRQT8irswcRpk-Ctht1urA,-5.7464982,-35.2677823,supermarket
+773,Supermercado Rede Mais Alecrim,ChIJLcOz5aeqswcRu_iMKzk_mXc,-5.795354499999999,-35.215802,supermarket
+774,Bompreço Natal,ChIJLaQwdPf_sgcRkvsN0zP49ng,-5.8149185,-35.2122211,supermarket
+775,Supermarket Saint Vincent,ChIJ92GiMjOqswcRfzHa40MRmGQ,-5.742528,-35.25876819999999,supermarket
+776,Extra,ChIJeSa4AOH_sgcRRrFd7uOcUBo,-5.8117427,-35.2068104,supermarket
+777,Bompreço Barro Vermelho,ChIJ3dedhv3_sgcRoUXnAR4af08,-5.8055144,-35.2070547,supermarket
+778,Administrative and Logistic Center,ChIJk0Gjtl9WsgcR9qDT5VlEUIc,-5.890148999999999,-35.2567094,supermarket
+779,Carrefour Hipermercado,ChIJgZyGTHn_sgcRrC1ljgR_bQs,-5.8450608,-35.21060620000001,supermarket
+780,Supermercado Primavera,ChIJ6TTnTtqrswcRxTukW883A0E,-5.7358914,-35.2720329,supermarket
+781,Favorito Supermercados,ChIJN0Ri9i5SsgcR3MVkv8luclQ,-5.858936700000001,-35.3542666,supermarket
+782,Sam's Club,ChIJY6MUg1__sgcRsohJXkcY870,-5.8593742,-35.21463889999999,supermarket
+783,Supermarket Angicano - Supercop,ChIJhQ6_Z5L_sgcRvun8Zw_LzQA,-5.825931,-35.2025804,supermarket
+784,"Supermercado Avelino ""Onde o pouco se torna muito""",ChIJxQ8E-TqqswcRkJd9JPYTpYk,-5.742856299999999,-35.2456507,supermarket
+785,Nordestão Tirol,ChIJ5Von2REAswcRmD46Yckk-FY,-5.793383299999999,-35.2038844,supermarket
+786,Hiper Bompreço de Ponta Negra,ChIJKQ7I0GT_sgcR0-xEt-8GX-Q,-5.8504049,-35.20722319999999,supermarket
+787,Supermercado RedeMAIS Veneza,ChIJY3ICFJP_sgcREXdmzCTmOck,-5.8247803,-35.2000749,supermarket
+788,Nordestão Cidade Jardim,ChIJo7eLM2X_sgcR6p9e0SqYkMA,-5.849791300000001,-35.2056616,supermarket
+789,Maxxi Parnamirim,ChIJ-QfK9vhWsgcRLzAQXDHuKug,-5.9011359,-35.2605748,supermarket
+790,Supermercado RedeMAIS Pajuçara,ChIJ4-5B6IepswcR0lDVTwnhGjQ,-5.730657699999999,-35.2485871,supermarket
+791,Super Show! Bandeirantes,ChIJd_OrqSGqswcRX4xsfbP9iGw,-5.734819400000001,-35.23954059999999,supermarket
+792,Supermercado Rede Potyguar,ChIJM8_s6GIAswcRExur_fESyAM,-5.771753899999999,-35.202278,supermarket
+793,Mercardinho Gabriel,ChIJ2fGD5xhXsgcR3j6aYQK12gk,-5.9117904,-35.2785506,supermarket
+794,Alambik Bebidas,ChIJAcqdEBtXsgcRY8dFHwW9jzs,-5.9128189,-35.2716088,supermarket
+795,Extra Hiper,ChIJSyFWVRT_sgcRoSy0bdfDZV8,-5.8587454,-35.1961816,supermarket
+796,EXTRA,ChIJk3YD36f4sgcRfkAd_wC8Fgs,-5.884526000000001,-35.2132683,supermarket
+797,Extra - Maria Lacerda,ChIJaY8w2Kf4sgcRypNdjgQkQZo,-5.884444,-35.2130005,supermarket
+798,BomDia Supermercado,ChIJCYsViBBXsgcRkbHmbNw3HgQ,-5.916019699999999,-35.272851,supermarket
+799,Caicó Frios Parnamirim,ChIJQevSagZXsgcRBedO_9ZygIY,-5.915254699999999,-35.2631515,supermarket
+800,Mercantil Líder,ChIJVaHL7Q9XsgcRTDoi0SJ-rN8,-5.916492,-35.2686837,supermarket
+801,Supermercado RedeMAIS Redinha,ChIJx95uyaUAswcR_zX1BFcQqh0,-5.7452241,-35.2082096,supermarket
+802,Dunas e Corais Praia Hotel,ChIJ738wY4mnswcRtOs6nD07EZc,-5.641165099999998,-35.2182224,store
+803,Óticas Diniz Prime,ChIJzSA3qRQAswcRQprhYjJ0CZY,-5.7886484,-35.1980012,store
+804,Seduza Sex Shop,ChIJp3mdr3MAswcRuwVqVYKX8UA,-5.785046,-35.207162,store
+805,Carrefour Hipermercado,ChIJhyNH-E-qswcRXs0R9Q_MV5Y,-5.757529999999999,-35.247805,store
+806,Miranda Computação,ChIJSQscGAUAswcRZXqJ1mfMJSo,-5.801581000000001,-35.206737,store
+807,Magazine Luiza,ChIJVdRotqeqswcRFsZqBBYWvWY,-5.794174999999999,-35.2168861,store
+808,Sacolão Baby - Centro,ChIJU1VVrXMAswcRIBpaC9EbdZE,-5.7858554,-35.2069376,store
+809,Lojas Marisa,ChIJ84UBwAwAswcR8BPmCLu3B0k,-5.786398099999999,-35.2066986,store
+810,Lojas Marisa,ChIJgbc41kSqswcRw0SQZPyfKXA,-5.7578323,-35.24722250000001,store
+811,Eletronorte Eletrônica,ChIJWRrwJKmqswcRg0P0amUQWpg,-5.7968329,-35.2175546,store
+812,Pontanegra Fiat,ChIJLY1dRy7_sgcRr678v5X90Yw,-5.851991199999999,-35.2021919,store
+813,Magazine Luiza,ChIJPVC7zC__sgcR54-3VD-Ed4E,-5.8503758,-35.2050366,store
+814,Contem 1g,ChIJD_WTzC__sgcRhZlDazhVRII,-5.8503758,-35.2050366,store
+815,Master Malharia e Serigrafia,ChIJ8zBDtGwAswcRwEsxwYKsFLo,-5.787130899999999,-35.2019827,store
+816,Gêmeos Rodas,ChIJF3O_Vf__sgcRDlsWxMd4URw,-5.808678899999999,-35.2145337,store
+817,Flamma Luminárias,ChIJbT0RkAQAswcR2jWK9rIxN_E,-5.800605500000001,-35.205788,store
+818,IVANLUX - Materiais Elétricos e Serviços,ChIJZfzvVKqqswcRQh2HIzWIhZc,-5.801768899999999,-35.2172403,store
+819,Outlet das Flores Natal,ChIJ7ejMLWZVsgcRNaMYP5FMjIg,-5.8232234,-35.2296504,store
+820,Magazine Luiza,ChIJu_E_IgZXsgcRMMBVczzZ9kY,-5.9166737,-35.260984,store
+821,M Officer,ChIJr7JihIv_sgcRLm0yntV_iYs,-5.850502,-35.2098409,store
+822,Redecon Central da Construção,ChIJadgHzwhXsgcRlsKcedTaW7I,-5.9175518,-35.26395670000001,store
+823,Casa das Cozinhas,ChIJU09UMy7_sgcRkhFD3YpLgLo,-5.8573016,-35.1901151,store
+824,Brasprag Saúde Ambiental,ChIJl2eqyQUAswcRxbHT8lmkgnc,-5.7961886,-35.2076238,store
+825,Loja Express,ChIJAb3AMXMAswcRLDVZgnnhdc0,-5.783327,-35.2055094,store
+826,BRAZ IMPRESSÕES,ChIJNQ5LyfL_sgcR31oUIcZCCDk,-5.8226546,-35.2054648,store
+827,Chilli Beans,ChIJ_96pWiz_sgcRZAkUjBtpaYU,-5.8736295,-35.17985090000001,store
+828,Nordestão Lagoa Nova,ChIJq43fVvD_sgcRvfurpxjAgZ8,-5.8157081,-35.2067184,store
+829,Floricultura Flor & Art,ChIJj6YeJ2X_sgcR7DvVlELBfPw,-5.8502429,-35.2068003,store
+830,Forever Living Products Brasil,ChIJz5TqBGX_sgcRzXhHDGzpBtU,-5.787534699999999,-35.19539700000001,store
+831,Atacadão dos Eletros,ChIJ1-rG0QdXsgcRFSbr36fW8P0,-5.915517499999999,-35.2615964,store
+832,Colchões e Cia,ChIJU09UMy7_sgcRs36Aw1knyXY,-5.8507109,-35.2049207,store
+833,Cooperativa Cultural,ChIJr7JihIv_sgcRHfs6GXDXiFA,-5.839683600000001,-35.2001316,store
+834,O Borrachão Alecrim,ChIJ5Xfs0qiqswcRX9dwHqk71y8,-5.796212,-35.22105,store
+835,Iskisita Baby,ChIJOS1WXRIAswcRwOfDxzgmWys,-5.792191100000001,-35.2031762,store
+836,Lojas Americanas,ChIJRYu8Vfr_sgcR6RsPtSMjDrM,-5.8112867,-35.2062242,store
+837,Cia do Terno,ChIJK3y2rlqqswcRo6MKliWefSA,-5.7578242,-35.2472963,store
+838,Globo Drugstores,ChIJqXdf9xEAswcRh-tAXIYiQbQ,-5.793184799999999,-35.203688,store
+839,Rede Mais Veneza Supermarket,ChIJ77Kciuv_sgcRyhXdfMqs6Q0,-5.8246009,-35.2001261,store
+840,Favorito Supermercados - Parnamirim Centro,ChIJ4VDpiQhXsgcRRADG3f1y52Q,-5.917662399999999,-35.2617694,store
+841,Four Tech Computer,ChIJa4hgdKiqswcRorc7RbNJpXg,-5.795453200000001,-35.21550399999999,store
+842,Sacolão - Escritório Central,ChIJlV5cAVJVsgcRsDAbdMVKXjY,-5.8079444,-35.22551929999999,store
+843,Atacadão - Natal,ChIJNas33l__sgcRuWdjj4ucWyI,-5.8658845,-35.2183495,store
+844,Ceiça Flores,ChIJBborzC__sgcRICZtqhg_498,-5.849049400000001,-35.2056593,store
+845,O MOVELEIRO,ChIJYx0_2XIAswcR2hONMl7lQzg,-5.7867369,-35.20593829999999,store
+846,Pharmacies Pay Less,ChIJdXNQUgIAswcRk4aq7-agi6c,-5.807634299999999,-35.2088412,store
+847,Polishop,ChIJcb6iVfr_sgcRj0GiazB_iRo,-5.8111414,-35.2065467,store
+848,Ri Happy,ChIJcb6iVfr_sgcRGErKGpZqH_A,-5.811258,-35.206267,store
+849,Farmácias Pague Menos,ChIJxQc432gAswcRmN8C9fXyaKo,-5.783101,-35.19969870000001,store
+850,Atacadão dos Eletros,ChIJi2hZLjZVsgcRwWA_WXTwS-c,-5.802235699999999,-35.2280572,store
+851,Óticas Diniz,ChIJXYtwU3IAswcRvBaO8rWf9ns,-5.785082200000001,-35.2062707,store
+852,Natal Veículos,ChIJO560W2D_sgcReQVAPMfytms,-5.854804599999999,-35.21193779999999,store
+853,Farmácias Pague Menos,ChIJZdX5MGJVsgcRljcmwRHtErs,-5.837591300000001,-35.2198931,store
+854,Armazém Pará Home Center,ChIJzQD-xz7_sgcRIAuUcy4CDsk,-5.8538954,-35.2002308,store
+855,Assisttec,ChIJOx6oMGJVsgcRvBw2Gb2SIcU,-5.8371616,-35.21929009999999,store
+856,Canadá Color,ChIJm-7d2HIAswcRpjsJC0et0W4,-5.7869712,-35.206831,store
+857,HC Pneus,ChIJ589OzP3_sgcR5HxylAAjIwc,-5.812987100000001,-35.2102182,store
+858,Corpus Estética,ChIJNXcJ-m__sgcR5w6ttyrWrEQ,-5.8484243,-35.20510360000001,store
+859,Armazém Pará,ChIJ78s5zlZVsgcRo6kvZmMGzog,-5.8105004,-35.2197043,store
+860,Floricultura Capricho,ChIJz33h2D9VsgcRHuD47IfJzEI,-5.8229616,-35.2400969,store
+861,Espaço Luz Azul,ChIJzwgxlkEAswcRgca461PEBW4,-5.808129000000001,-35.2037009,store
