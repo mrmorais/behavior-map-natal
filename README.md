@@ -1,5 +1,7 @@
 # Behavior Map Natal
 
+<img src="https://github.com/mrmorais/behavior-map-natal/blob/master/img/natal_monday.gif?raw=true" width="400">
+
 I created a interactive map (using pandas, python and folium libraries) on collected data from two resources of [Google Places API][places-api]. The resources are search nearby places and get popular times for those places. In short: more than 800 places were collected using 20km radius range, 20 categories and some max results limitations chosen by hand. These raw data of places is the `data/places.csv` dataset (it contains `place_name`, `place_id`, `lat`, `lng` and `type` columns).
 
 The `read_places.py` script was used to read those `places.csv`'s places from the API. To do this, you only need a API Key ([see here how to get one][api-key]). This script uses the [Search][api-search] of the API.
