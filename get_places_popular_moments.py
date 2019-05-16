@@ -4,7 +4,7 @@ from config.api import APIKey
 
 API_KEY = APIKey
 
-places = pd.read_csv('data/places.csv')
+places = pd.read_csv('data/places.csv', index_col=0)
 places['monday'] = None
 places['tuesday'] = None
 places['wednesday'] = None
